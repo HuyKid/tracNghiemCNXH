@@ -163,9 +163,9 @@ const myQuestions = [
         c: "Giáo hoá, cảm hoá, chỗ dựa tinh thần cho các thành viên trong gia đình.",
         d: "Nơi lưu giữ, sáng tạo và thụ hưởng truyền thống văn hoá tốt đẹp của dân tộc, tộc người.",
         },
-        correctAnswer: "c",
+        correctAnswer: "d",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
+        falseAnswerText: "Sai, câu trả lời đúng là d"
         },
     {
         title: "Câu 13",
@@ -765,9 +765,9 @@ const myQuestions = [
         c: "Các dân tộc có quyền tự lựa chọn chế độ chính trị và con đường phát triển cho dân tộc mình.",
         d: "Quyền tách ra thành lập một quốc gia dân tộc độc lập và quyền tự nguyện liên hiệp với dân tộc khác.",
         },
-        correctAnswer: "a",
+        correctAnswer: "d",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
+        falseAnswerText: "Sai, câu trả lời đúng là d"
         },
     {
         title: "Câu 56",
@@ -1031,9 +1031,9 @@ const myQuestions = [
         c: "Quá độ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
         d: "Thời kì quá độ.",
         },
-        correctAnswer: "c",
+        correctAnswer: "a",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
+        falseAnswerText: "Sai, câu trả lời đúng là a"
         },
     {
         title: "Câu 75",
@@ -1115,9 +1115,9 @@ const myQuestions = [
         c: "Bảy đặc điểm cơ bản.",
         d: "Tám đặc điểm cơ bản.",
         },
-        correctAnswer: "a",
+        correctAnswer: "b",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
+        falseAnswerText: "Sai, câu trả lời đúng là bs"
         },
     {
         title: "Câu 81",
@@ -1773,9 +1773,9 @@ const myQuestions = [
         c: "Tư tưởng đập tan nhà nước tư sản, thiết lập chuyên chính vô sản.",
         d: "Tư tưởng sự kết hợp đấu tranh giai cấp vô sản với phong trào đấu tranh của nông dân.",
         },
-        correctAnswer: "b",
+        correctAnswer: "a",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
+        falseAnswerText: "Sai, câu trả lời đúng là a"
         },
     {
         title: "Câu 128",
@@ -1815,9 +1815,9 @@ const myQuestions = [
         c: "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
         d: "Học thuyết về giá trị thặng dư.",
         },
-        correctAnswer: "b",
+        correctAnswer: "a",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
+        falseAnswerText: "Sai, câu trả lời đúng là a"
         },
     {
         title: "Câu 131",
@@ -2487,9 +2487,9 @@ const myQuestions = [
         c: "Chủ nghĩa tư bản.",
         d: "V.I.Lênin và cách mạng tháng 10/1917 – Nga.",
         },
-        correctAnswer: "b",
+        correctAnswer: "c",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
+        falseAnswerText: "Sai, câu trả lời đúng là c"
         },
     {
         title: "Câu 179",
@@ -2613,9 +2613,9 @@ const myQuestions = [
         c: "Giai cấp vô sản, tầng lớp tri thức và nhân dân lao động trong xã hội tư bản.",
         d: "Liên minh giai cấp công nhân – nông dân với các tầng lớp lao động trong xã hội tư bản.",
         },
-        correctAnswer: "d",
+        correctAnswer: "b",
         correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
+        falseAnswerText: "Sai, câu trả lời đúng là b"
         },
     {
         title: "Câu 188",
