@@ -1749,1756 +1749,1756 @@ const myQuestions = [
         correctAnswerText: "Đúng",
         falseAnswerText: "Sai, câu trả lời đúng là a"
         },
-    {
-        title: "Câu 126",
-        question: "Trong thời kỳ quá độ lên CNXH ở Việt Nam, nhiệm vụ trung tâm mà giai cấp công nhân phải lãnh đạo thực hiện là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Thực hiện dân chủ trong lĩnh vực chính trị.",
-        b: "Thực hiện mục tiêu dân giàu, nước mạnh.",
-        c: "Phát triển văn hoá, xây dựng con người XHCN.",
-        d: "Phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 127",
-        question: "Nội dung nào sau đây thuộc nội dung bổ sung của Ph.Ăngghen và C.Mác vào chủ nghĩa xã hội khoa học thời kì sau Công xã Pari đến 1895?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tư tưởng xoá bỏ quan hệ sản xuất tư bản, xây dựng quan hệ sản xuất XHCN.",
-        b: "Đập tan bộ máy nhà nước quan liêu, không đập tan toàn bộ bộ máy nhà nước tư sản nói chung.",
-        c: "Tư tưởng đập tan nhà nước tư sản, thiết lập chuyên chính vô sản.",
-        d: "Tư tưởng sự kết hợp đấu tranh giai cấp vô sản với phong trào đấu tranh của nông dân.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 128",
-        question: "Nội dung nào sau đây không thuộc nội dung bổ sung của Ph.Ăngghen và C.Mác vào chủ nghĩa xã hội khoa học thời kì 1848 đến Công xã Pari?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tư tưởng xoá bỏ quan hệ sản xuất tư bản, xây dựng quan hệ sản xuất XHCN.",
-        b: "Tư tưởng đập tan nhà nước tư sản, thiết lập chuyên chính vô sản.",
-        c: "Tư tưởng sự kết hợp đấu tranh giai cấp vô sản với phong trào đấu tranh của nông dân.",
-        d: "Tư tưởng xây dựng khối liên minh giai cấp công nhân và giai cấp nông dân.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 129",
-        question: "Chọn đáp án KHÔNG đúng. Dân tộc là cộng đồng chính trị – xã hội có đặc trưng cơ bản:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Có chung phương thức sinh hoạt kinh tế.",
-        b: "Có lãnh thổ chung ổn định không bị chia cắt.",
-        c: "Có sự quản lý của một nhà nước, nhà nước dân tộc độc lập.",
-        d: "Có chung một ngôn ngữ giao tiếp.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 130",
-        question: "Tác phẩm kinh điển chủ yếu của chủ nghĩa xã hội khoa học là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tuyên ngôn của Đảng Cộng sản.",
-        b: "Tuyên ngôn Đảng Cộng sản Việt Nam.",
-        c: "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
-        d: "Học thuyết về giá trị thặng dư.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 131",
-        question: "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, chủ nghĩa cộng sản ra đời dựa trên việc giải quyết mâu thuẫn giữa:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Sự ra đời của nền đại công nghiệp cơ khí với lợi ích của giai cấp vô sản.",
-        b: "Sự phát triển của các công ty độc quyền với quyền lợi của đại bộ phận giai cấp công nhân.",
-        c: "Sự phát triển của nhà nước tư bản độc quyền với quyền lợi của giai cấp vô sản và bần cùng hoá.",
-        d: "Quan hệ sản xuất TBCN dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa với lực lượng sản xuất được cơ khí hoá, hiện đại hoá mang tính xã hội hoá cao.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 132",
-        question: "Luận điểm nào sau đây không phải do V.I.Lênin viết bàn về những nguyên lý của chủ nghĩa xã hội khoa học trong thời kỳ mới?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Về chuyên chính vô sản; Thời kỳ quá độ chính trị từ CNTB lên CNCS.",
-        b: "Về chế độ dân chủ: không có dân chủ thuần tuý hay dân chủ nói chung.",
-        c: "Về thời kỳ quá độ chính trị từ các nước không qua giai đoạn tư bản tiến lên CNXH.",
-        d: "Về cải cách hành chính bộ máy nhà nước và cương lĩnh xây dựng CNXH ở Nga.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 133",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, đặc trưng cơ bản của giai đoạn đầu của xã hội cộng sản gồm mấy đặc trưng?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "4 đặc trưng.",
-        b: "5 đặc trưng.",
-        c: "6 đặc trưng.",
-        d: "7 đặc trưng.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 134",
-        question: "“Tư liệu sản xuất chuyển thành tài sản chung, thì gia đình cá thể sẽ không còn là đơn vị kinh tế xã hội nữa. Việc nuôi dạy con cái trở thành công việc của xã hội”. Phát biểu này của ai?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Hồ Chí Minh.",
-        b: " C.Mac.",
-        c: "V.I.Lênin.",
-        d: "Ph.Ăngghen.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 135",
-        question: "Đời sống của nhân dân giữa những vùng, miền của đất nước còn có sự chênh lệch là đặc điểm của thời kì quá độ trong lĩnh vực nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chính trị.",
-        b: "Kinh tế.",
-        c: "Tư tưởng và văn hóa.",
-        d: "Xã hội.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 136",
-        question: "Theo Ph.Ăngghen, với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có mấy chế độ dân chủ ra đời?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "2 (dân chủ tư sản; dân chủ XHCN).",
-        b: "3 (dân chủ nguyên thuỷ; dân chủ tư sản; dân chủ XHCN).",
-        c: "4 (dân chủ nguyên thuỷ; dân chủ chủ nô; dân chủ tư sản; dân chủ XHCN).",
-        d: "3 (dân chủ chủ nô; dân chủ tư sản; dân chủ XHCN).",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 137",
-        question: "Cơ sở, nền tảng pháp lý cho sự tồn tại và hình thành nên các mối quan hệ khác trong gia đình là gì?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Quan hệ huyết thống.",
-        b: "Quan hệ kinh tế.",
-        c: "Quan hệ nuôi dưỡng.",
-        d: "Quan hệ hôn nhân.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 138",
-        question: "Việc hình thành khối liên minh công, nông, trí trong thời kỳ quá độ lên CNXH xuất phát từ:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Nhu cầu của cuộc cách mạng khoa học công nghệ.",
-        b: "Nhu cầu và lợi ích kinh tế của chính họ.",
-        c: "Nhu cầu của công nghiệp hoá, hiện đại hoá.",
-        d: "Nhu cầu trở thành lãnh đạo xã hội của giai cấp công nhân.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 139",
-        question: "Nhà nước XHCN ra đời là kết quả của:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cách mạng do giai cấp vô sản lãnh đạo, đập tan nhà nước tư sản.",
-        b: "Cách mạng do giai cấp vô sản lãnh đạo, đập tan nhà nước tư sản, xây dựng nhà nước của giai cấp vô sản.",
-        c: "Cách mạng do giai cấp vô sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản.",
-        d: "Cách mạng do giai cấp công nhân, nông dân tiến hành dưới sự lãnh đạo của Đảng Cộng sản.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 140",
-        question: "Hiện nay ở Việt Nam, đội ngũ doanh nhân được Đảng chủ trương xây dựng thành:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Một đội ngũ đặc biệt.",
-        b: "Một đội ngũ vững mạnh.",
-        c: "Một đội ngũ tiềm năng.",
-        d: "Một đội ngũ quan trọng.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 141",
-        question: "Sự phát triển của giai cấp công nhân được qui định bởi:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Sự phát triển của giai cấp tư sản công nghiệp.",
-        b: "Sự phát triển của giai cấp vô sản đại công nghiệp.",
-        c: "Sự phát triển của phong trào công nhân quốc tế.",
-        d: "Sự phát triển của chủ nghĩa đế quốc.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 142",
-        question: "Theo quan điểm của V.I.Lênin, công thức ra đời chủ nghĩa xã hội dưới chế độ xô viết. Chọn đáp án đúng nhất.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chính quyền xô viết + Trật tự ở đường sắt Phổ + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
-        b: "Chính quyền cộng sản + Trật tự ở đường sắt Phổ + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
-        c: "Chính quyền xô viết + Trật tự xã hội + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
-        d: "Chính quyền xô viết + Tự do, bình đẳng, bác ái của Pháp + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 143",
-        question: "“Với việc sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất, tái sản xuất ra con người, gia đình như một tế bào tự nhiên, là một đơn vị cơ sở để tạo nên cơ thể – xã hội”. Câu trích dẫn này của ai?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Hồ Chí Minh.",
-        b: "V.I.Lênin.",
-        c: "C.Mac. ",
-        d: "Ph.Ăngghen.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 144",
-        question: "Quyền nào thể hiện dân chủ trong lĩnh vực văn hóa?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Quyền được đảm bảo về mặt tinh thần khi không còn khả năng lao động.",
-        b: "Quyền tham gia thảo luận các vấn đề chung của cả nước.",
-        c: "Quyền được thông tin, tự do ngôn luận, tự do báo chí.",
-        d: "Quyền được hưởng lợi ích từ sáng tạo nghệ thuật của mình.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 145",
-        question: "Văn kiện nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tuyên ngôn của Đảng Cộng sản.",
-        b: "Tuyên ngôn độc lập Mỹ – 1776.",
-        c: "Tuyên ngôn nhân quyền và dân quyền Pháp – 1791.",
-        d: "Tuyên ngôn Đảng Cộng sản Việt Nam.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 146",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, trong chủ nghĩa xã hội phải thiết lập nhà nước:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chuyên chính cộng sản.",
-        b: "Chuyên chính dân tộc.",
-        c: "Chuyên chính vô sản.",
-        d: "Của dân, do dân, vì dân.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 147",
-        question: "Quá độ từ xã hội tiền tư bản lên chủ nghĩa xã hội, bỏ qua giai đoạn phát triển tư bản chủ nghĩa là quá độ:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Gián tiếp.",
-        b: "Nhảy vọt.",
-        c: "Đứt quãng.",
-        d: "Không cơ bản.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 148",
-        question: "Theo các nhà nghiên cứu CNHX khoa học, việc xây dựng gia đình dựa trên cơ sở kinh tế, chính trị mà thiếu đi cơ sở văn hoá thì dẫn đến:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Việc xây dựng gia đình sẽ khó khăn trăm bề.",
-        b: "Việc xây dựng gia đình sẽ không đảm bảo được hạnh phúc.",
-        c: "Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả cao.",
-        d: "Việc xây dựng gia đình sẽ không đạt được gia đình văn hoá.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 149",
-        question: "Chọn đáp án KHÔNG đúng. Ưu điểm của chủ nghĩa xã hội không tưởng là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Thể hiện tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ TBCN bất công.",
-        b: "Đưa ra nhiều luận điểm có giá trị về xã hội tương lai; về tổ chức sản xuất, phân phối; vai trò của khoa học, công nghệ; giải phóng lao động, giải phóng phụ nữ.",
-        c: "Thức tỉnh giai cấp công nhân và người lao động trong cuộc đấu tranh chống chế độ quân chủ chuyên chế và chế độ TBCN bất công.",
-        d: "Giúp chủ nghĩa tư bản chuyển từ tự do cạnh tranh sang độc quyền, chuẩn bị nền tảng kinh tế, xã hội cho giai cấp công nhân.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 150",
-        question: "C.Mác và Ph.Ăngghen bắt đầu nghiên cứu các phong trào đấu tranh của giai cấp công nhân ở đâu và thời gian nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Châu Âu, ở Anh, Pháp vào giữa thế kỷ XIX.",
-        b: "Châu Âu, ở Đức, Liên Xô vào giữa thế kỷ XIX.",
-        c: "Châu Mỹ, ở Mỹ, Cuba vào giữa thế kỷ XIX.",
-        d: "Châu Âu, ở Anh, Pháp vào đầu thế kỷ XIX.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 151",
-        question: "Chọn đáp án đúng nhất. Quan niệm gia đình được hiểu là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Một cộng đồng người cá biệt, có vai trò xây dựng nên một xã hội.",
-        b: "Hai người kết hôn, tiến tới việc sinh dưỡng thế hệ tương lai của loài người.",
-        c: "Một cộng đồng người đặc biệt, có vai trò quyết định đến sự tồn tại và phát triển của xã hội.",
-        d: "Một đơn vị đặc biệt quan trọng, là viên gạch đầu tiên để xây dựng nên ngôi nhà xã hội.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 152",
-        question: "Chủ nghĩa xã hội khoa học ra đời từ tiền đề là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Sự chuyển biến lập trường triết học và lập trường chính trị của C. Mác và Ph. Ăngghen.",
-        b: "Sự chuyển biến lập trường triết học và lập trường chính trị của Lênin.",
-        c: "Sự chuyển biến lập trường triết học và lập trường chính trị của C. Mác; Ph. Ăngghen và Lênin.",
-        d: "Sự chuyển biến lập trường triết học và lập trường chính trị từ duy tâm sang duy vật.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 153",
-        question: "Chọn đáp án KHÔNG đúng. Chủ nghĩa xã hội là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Phong trào thực tiễn, phong trào đấu tranh của nhân dân lao động chống lại áp bức, bất công, chống lại giai cấp thống trị.",
-        b: "Trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động ra khỏi ách áp bức, bóc lột, bất công.",
-        c: "Một khoa học về sứ mệnh lịch sử của giai cấp công nhân; một chế độ xã hội tốt đẹp.",
-        d: "Một lý tưởng mới về xã hội đại đồng, xã hội công bằng và tự trị.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 154",
-        question: "Dân chủ xã hội chủ nghĩa là nền dân chủ:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tuyệt đối nhất.",
-        b: "Hoàn bị nhất.",
-        c: "Rộng rãi nhất và triệt để nhất.",
-        d: "Phổ biến nhất trong lịch sử.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 155",
-        question: "Nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đảng Cộng sản.",
-        b: "Đảng Cộng sản Việt Nam.",
-        c: "Liên minh giai cấp công nhân với giai cấp nông dân và các tầng lớp khác trong xã hội.",
-        d: "Quốc tế Cộng sản.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 156",
-        question: "Chủ nghĩa Mác – Lênin lưu ý: Càng hoàn thiện bao nhiêu, nền dân chủ XHCN lại càng tự tiêu vong bấy nhiêu. Điều này được hiểu là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tính chính trị của dân chủ sẽ mất đi, dân chủ trở thành một thói quen, một tập quán trong sinh hoạt xã hội.",
-        b: "Tính dân chủ sẽ mất đi cùng với chế độ nhà nước cũng tiêu vong, không còn nữa.",
-        c: "Tính dân chủ sẽ mất đi, thay vào đó là thực hiện dân chủ cộng sản chủ nghĩa.",
-        d: "Tính quân chủ sẽ mất đi cùng với chế độ nhà nước cũng tiêu vong, không còn nữa.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 157",
-        question: "Trong xã hội phong kiến để duy trì chế độ bóc lột với quan hệ gia trưởng thì qui định đối với người phụ nữ là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chung thuỷ một chồng, nội trợ gia đình.",
-        b: "Cha mẹ đặt đâu con ngồi đấy.",
-        c: "Tuân thủ đầy đủ “tàm tòng”, “tứ đức”.",
-        d: "Công, dung, ngôn, hạnh, hiếu thảo trong gia đình.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 158",
-        question: "Quan điểm nào sau đây là sự vận dụng sáng tạo nguyên lý cơ bản của chủ nghĩa xã hội khoa học của Lênin?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cách mạng giải phóng dân tộc bản thân nó được giải quyết trong cách mạng vô sản.",
-        b: "Cách mạng vô sản có thể nổ ra và thắng lợi một số nước, nơi CNTB chưa phải phát triển nhất.",
-        c: "Cách mạng giải phóng dân tộc có khản năng nổ ra và giành thắng lợi trước cách mạng vô sản.",
-        d: "Cách mạng giải phóng dân tộc phụ thuộc vào cách mạng vô sản ở chính quốc.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 159",
-        question: "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng Nhà nước xã hội chủ nghĩa được chia thành:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chức năng đối nội, chức năng đối ngoại.",
-        b: "Chức năng kinh tế, chức năng chính trị.",
-        c: "Chức năng giai cấp, chức năng xã hội.",
-        d: "Chức năng đối nội, chức năng chính trị.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 160",
-        question: "Bản chất dân chủ XHCN ở Việt Nam. Chọn đáp án KHÔNG đúng.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Được thực hiện ưu tiên trong lĩnh vực chính trị.",
-        b: "Vừa là mục tiêu, vừa là động lực để xây dựng chủ nghĩa xã hội.",
-        c: "Gắn liền với pháp luật.",
-        d: "Do nhân dân làm chủ, quyền lực thuộc về nhân dân.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 161",
-        question: "Phát kiến vĩ đại của Mác và Ăngghen cho tiền đề lý luận chủ nghĩa xã hội khoa học là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chủ nghĩa duy vật lịch sử; Học thuyết giá trị thặng dư.",
-        b: "Chủ nghĩa duy vật lịch sử; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
-        c: "Chủ nghĩa duy vật lịch sử; Học thuyết giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
-        d: "Chủ nghĩa duy vật lịch sử; Học thuyết các hình thái kinh tế xã hội; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 162",
-        question: "Chọn đáp án đúng nhất. Kết quả tất yếu của hôn nhân xuất phát từ tình yêu:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Gia đình hạnh phúc.",
-        b: "Kết hôn.",
-        c: "Hôn nhân một vợ một chồng.",
-        d: "Được sự chứng nhận của pháp luật.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 163",
-        question: "Chức năng “trấn áp” của nhà nước XHCN là để:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Duy trì địa vị của giai cấp nắm quyền chiếm hữu tư liệu sản xuất chủ yếu của xã hội.",
-        b: "Thể hiện quyền lực của giai cấp vô sản đối với giai cấp tư sản.",
-        c: "Trấn áp giai cấp tư sản, trấn áp những phần tử chống đối giai cấp vô sản.",
-        d: "Trấn áp giai cấp bóc lột đã bị lật đổ và phần tử chống đối để bảo vệ thành quả cách mạng.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 164",
-        question: "Sứ mệnh lịch sử của giai cấp công nhân không phải là thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác mà là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Xoá bỏ triệt để chế độ tư hữu về tư liệu sản xuất.",
-        b: "Xoá bỏ triệt để chế độ công hữu về tư liệu sản xuất.",
-        c: "Xoá bỏ triệt để chế độ tàn dư tư bản chủ nghĩa.",
-        d: "Xoá bỏ triệt để chế độ tàn dư phong kiến.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 165",
-        question: "Dân chủ XHCN đánh dấu sự manh nha ra đời từ thực tiễn nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Công nghiệp hơi nước ở Anh năm 1791.",
-        b: "Đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871.",
-        c: "Đấu tranh giành chính quyền ở Mỹ năm 1776.",
-        d: "Cách mạng Tháng 10/1917 ở Nga.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 166",
-        question: "Mối quan hệ nào sau đây không phải là quan hệ huyết thống trong gia đình?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Ông nội – Cháu nội.",
-        b: "Vợ – Chồng.",
-        c: "Con Cô – Con cậu.",
-        d: "Anh trai – Em gái.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 167",
-        question: "Có mấy loại hình quá độ lên cộng sản chủ nghĩa theo quan điểm của C.Mác và Ph.Ăngghen?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "1 (Từ hình thái kinh tế – xã hội chủ nghĩa tư bản lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
-        b: "2 (Từ hình thái kinh tế – xã hội thấp hơn, bỏ qua chủ nghĩa tư bản lên cộng sản chủ nghĩa và từ hình thái kinh tế – xã hội tư bản chủ nghĩa phát triển lên chủ nghĩa cộng sản).",
-        c: "1 (Từ hình thái kinh tế – xã hội phong kiến lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
-        d: "2 (Từ Từ hình thái kinh tế – xã hội phong kiến lên hình thái kinh tế – xã hội cộng sản chủ nghĩa và từ hình thái kinh tế – xã hội chủ nghĩa tư bản lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 168",
-        question: "Tiền đề tư tưởng lý luận cho sự ra đời của chủ nghĩa xã hội khoa học là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Triết học cổ điển Đức; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
-        b: "Triết học cổ điển Anh; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa phê phán.",
-        c: "Triết học cổ điển Pháp; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
-        d: "Triết học Mác - Lênin; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 169",
-        question: "“Bước thứ hai và là bước chủ yếu là thủ tiêu chế độ tư hữu ruộng đất…có như thế mới mở đường giải phóng hoàn toàn và thật sự cho phụ nữ, thủ tiêu được chế độ nô lệ gia đình”. Phát biểu này của ai?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Hồ Chí Minh.",
-        b: "C.Mac.",
-        c: "V.I.Lênin.",
-        d: "Ph.Ăngghen.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 170",
-        question: "Cơ sở phương pháp luận cho các nhà sáng lập chủ nghĩa xã hội khoa học là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Học thuyết Tiến hoá; Định luật Neuton; Định luật Talet.",
-        b: "Học thuyết Tiến hoá; Định luật Neuton; Học thuyết tế bào.",
-        c: "Học thuyết Tiến hoá; Định luật Bảo toàn và chuyển hoá năng lượng; Học thuyết tế bào.",
-        d: "Học thuyết Tiến hoá; Định luật Neuton; Định luật Bảo toàn và chuyển hoá năng lượng.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 171",
-        question: "Quyền nào sau đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Quyền sáng tác văn học.",
-        b: "Quyền tự do báo chí.",
-        c: "Quyền lao động.",
-        d: "Quyền bình đẳng nam nữ.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 172",
-        question: "“Học thuyết của Mác là học thuyết vạn năng vì nó là một học thuyết chính xác”, đánh giá này của ai?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Ph. Ăngghen.",
-        b: "Hồ Chí Minh.",
-        c: "D. Ricacdo.",
-        d: "V.I. Lênin.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 173",
-        question: "Chọn đáp án đúng nhất. Cơ cấu xã hội - giai cấp là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên.",
-        b: "Hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu, về tổ chức sản xuất… giữa các giai cấp và tầng lớp đó.",
-        c: "Hệ thống các giai cấp, tầng lớp xã hội tồn tại chủ quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu, về tổ chức sản xuất… giữa các giai cấp và tầng lớp đó.",
-        d: "Những cộng đồng người cùng với mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức quản lý quá trình sản xuất, về địa vị chính trị – xã hội … giữa con người với con người.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 174",
-        question: "Chọn đáp án KHÔNG đúng. Về văn hoá, xã hội, nhà nước XHCN được xây dựng trên nền tảng:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Lý luận của chủ nghĩa Mác – Lênin.",
-        b: "Giá trị văn hoá Phương Tây.",
-        c: "Giá trị văn hoá tiên tiến, tiến bộ của nhân loại.",
-        d: "Bản sắc văn hoá tiên tiến, đậm đà riêng biệt của dân tộc.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 175",
-        question: "Chọn đáp án đúng nhất. Nước ta đang ở giai đoạn phát triển nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chế độ cộng sản chủ nghĩa.",
-        b: "Chế độ xã hội chủ nghĩa.",
-        c: "Thời kì quá độ lên chủ nghĩa xã hội bỏ qua giai đoạn phát triển tư bản chủ nghĩa.",
-        d: "Thời kì quá độ lên chủ nghĩa xã hội.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 176",
-        question: "Bản chất kinh tế của nền dân chủ XHCN khác với nền dân chủ tư sản là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chế độ công hữu tư liệu sản xuất và thực hiện chế độ phân phối theo kết quả lao động.",
-        b: "Chế độ công hữu tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu.",
-        c: "Chế độ sở hữu chung tư liệu sản xuất xã hội và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu.",
-        d: "Chế độ công hữu tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo nhu cầu người lao động.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 177",
-        question: "Nền dân chủ xã hội chủ nghĩa là nền dân chủ:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Của tất cả mọi người trong xã hội.",
-        b: "Của những người lãnh đạo.",
-        c: "Của nhân dân lao động.",
-        d: "Của giai cấp công nhân.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 178",
-        question: "Các nhà sáng lập chủ nghĩa xã hội khoa học đã thừa nhận chủ nghĩa cộng sản ra đời dựa trên vai trò to lớn của:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "C.Mác và Ph.Ăngghen.",
-        b: "C.Mac, Ph.Ăngghen và V.I.Lênin.",
-        c: "Chủ nghĩa tư bản.",
-        d: "V.I.Lênin và cách mạng tháng 10/1917 – Nga.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 179",
-        question: "Hành vi, việc làm nào sau đây vi phạm chính sách dân số của Đảng và Nhà nước?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tuyên truyền, phổ biến biện pháp kế hoạch hóa gia đình.",
-        b: "Cung cấp các phương tiện tránh thai.",
-        c: "Cung cấp các dịch vụ dân số.",
-        d: "Lựa chọn giới tính thai nhi dưới mọi hình thức.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 180",
-        question: "Chọn đáp án đúng nhất. Hôn nhân tiến bộ là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Xuất phát từ tính tự nguyện của hai bên gia đình.",
-        b: "Xuất phát từ hợp đồng được ký trước pháp luật.",
-        c: "Xuất phát từ tính tự nguyện của một bên Nam hay Nữ.",
-        d: "Xuất phát từ tình yêu lứa đôi.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 181",
-        question: "Ở Việt Nam, quá độ lên CNXH bỏ qua chế độ TBCN, tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng TBCN. Nghĩa là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Thời kỳ quá độ không còn quan hệ bóc lột và bị bóc lột.",
-        b: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột tư bản chủ nghĩa không giữ vai trò thống trị.",
-        c: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột xã hội chủ nghĩa không giữ vai trò thống trị.",
-        d: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột tư bản chủ nghĩa dần dần bị xoá bỏ.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 182",
-        question: "Chọn đáp án đúng nhất. Theo V.I.Lênin, nội dung chủ yếu và mục đích cuối cùng của nhà nước XHCN là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giải phóng toàn bộ người lao động trong xã hội.",
-        b: "Cải tạo xã hội cũ, xây dựng thành công xã hội mới.",
-        c: "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
-        d: "Giải phóng toàn bộ người lao động trong xã hội, phát triển toàn bộ cá nhân.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 183",
-        question: "Nền dân chủ xã hội chủ nghĩa gắn liền với:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đạo đức.",
-        b: "Phong tục.",
-        c: "Truyền thống.",
-        d: "Pháp luật.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 184",
-        question: "“Ở các nước XHCN, giai cấp công nhân thông qua quá trình công nghiệp hoá và thực hiện […] để tăng năng suất lao động xã hội”. Chọn cụm từ đúng vào chỗ trống.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Một kiểu tổ chức kinh tế mới.",
-        b: "Một kiểu tổ chức sản xuất mới.",
-        c: "Một kiểu tổ chức xã hội mới về lao động.",
-        d: "Một kiểu tổ chức công nghiệp hoá mới về lao động.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 185",
-        question: "Trong chính sách tôn giáo của Đảng và Nhà nước ta hiện nay, nội dung cốt lõi của công tác tôn giáo là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Công tác vận động quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
-        b: "Công tác giáo dục quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
-        c: "Công tác tuyên truyền tư tưởng tốt đẹp của tôn giáo, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
-        d: "Công tác đào tạo quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 186",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, trong chủ nghĩa xã hội, văn hoá là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tiền đề tinh thần của xã hội, rèn luyện bản lĩnh người cách mạng, biến con người thành có ích cho xã hội.",
-        b: "Tiền đề quan trọng cho sự phát triển kinh tế, xã hội, hun đúc và rèn luyện con người thành con người xã hội chủ nghĩa.",
-        c: "Tiền đề quan trọng cho sự phát triển kinh tế, xã hội, văn hoá phải soi đường cho quốc dân đi.",
-        d: "Nền tảng tinh thần, mục tiêu, động lực phát triển xã hội, trọng tâm là phát triển kinh tế.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 187",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản là cuộc cách mạng của:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giai cấp tư sản tiến bộ lãnh đạo, cùng với tầng lớp trí thức có tư tưởng tiến bộ, hoà bình.",
-        b: "Giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản.",
-        c: "Giai cấp vô sản, tầng lớp tri thức và nhân dân lao động trong xã hội tư bản.",
-        d: "Liên minh giai cấp công nhân – nông dân với các tầng lớp lao động trong xã hội tư bản.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 188",
-        question: "Điều kiện khách quan của sứ mệnh giai cấp công nhân do:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Địa vị kinh tế và địa vị xã hội của giai cấp công nhân qui định.",
-        b: "Địa vị chính trị và địa vị xã hội của giai cấp công nhân qui định.",
-        c: "Địa vị kinh tế, chính trị – xã hội của giai cấp công nhân qui định.",
-        d: "Địa vị lịch sử khách quan và mâu thuẫn khách quan trong phương thức sản xuất tư bản qui định.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 189",
-        question: "Nội dung văn hoá, xã hội của liên minh giai cấp, tầng lớp ở Việt Nam đòi hỏi phải:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Gắn tăng trưởng kinh tế với phát triển văn hoá, phát triển, xây dựng con người và thực hiện tiến bộ, công bằng xã hội.",
-        b: "Gắn tăng trưởng kinh tế với phát triển văn hoá, phát triển, xây dựng con người và thực hiện giải quyết việc làm cho người lao động.",
-        c: "Gắn tăng trưởng kinh tế với phát triển văn hoá, thực hiện tiến bộ, công bằng xã hội.",
-        d: "Gắn phát triển kinh tế với văn hoá, xây dựng con người mới và thực hiện tiến bộ, công bằng xã hội.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 190",
-        question: "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước XHCN được chia thành:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chức năng chính trị; chức năng quân sự.",
-        b: "Chức năng kinh tế; chức năng văn hoá, xã hội.",
-        c: "Chức năng đối nội; chức năng đối ngoại.",
-        d: "Chức năng trấn áp; chức năng tổ chức và xây dựng.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 191",
-        question: "Những nội dung khái quát về một Nhà nước pháp quyền XHCN Việt Nam được thể hiện trong:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cương lĩnh chính trị đầu tiên của Đảng.",
-        b: "Chính cương vắn tắt và sách lược vắn tắt.",
-        c: "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
-        d: "Cương lĩnh xây dựng đất nước trong thời kỳ kháng chiến, kiến quốc.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 192",
-        question: "Quá trình phát triển của dân chủ XHCN từ thấp tới cao, có sự kế thừa chọn lọc trước hết giá trị của nền dân chủ nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Dân chủ nguyên thuỷ.",
-        b: "Dân chủ chủ nô.",
-        c: "Dân chủ xã hội chủ nghĩa.",
-        d: "Dân chủ tư sản.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 193",
-        question: "Chọn đáp án KHÔNG đúng. Ở các nước quá độ lên CNXH với xuất phát điểm thấp, cơ cấu kinh tế biến đổi:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Từ nông nghiệp, công nghiệp sơ khai sang tăng tỉ trọng công nghiệp và dịch vụ, giảm tỉ trọng nông nghiệp.",
-        b: "Từ cơ cấu vùng lãnh thổ chưa định hình sang hình thành các vùng, các trung tâm kinh tế lớn.",
-        c: "Từ cơ cấu lực lượng sản xuất hiện đại nhưng không cân đối sang phát triển lực lượng sản xuất với trình độ công nghệ cao.",
-        d: "Từ phương thức sản xuất thấp kém lạc hậu sang phương thức sản xuất hiện đại, tiên tiến hơn.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 194",
-        question: "Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ, chức năng trấn áp của nhà nước XHCN thể hiện:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tồn tại như một tất yếu.",
-        b: "Tồn tại nhưng không cần thiết.",
-        c: "Tồn tại trong thời kì đầu của CNXH.",
-        d: "Không cần tồn tại.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 195",
-        question: "Sự hình thành và phát triển của Chủ nghĩa xã hội khoa học trải qua những thời kỳ nào sau đây?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "C. Mác và Ph. Ăngghen phát triển chủ nghĩa xã hội khoa hoc; Lênin vận dụng và phát triển trong điều kiện mới; Sự vận dụng và phát triển sáng tạo sau Lênin đến nay.",
-        b: "Trước công xã Pari; Sau công xã Pari; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga.",
-        c: "Trước công xã Pari; Sau công xã Pari; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga; Sự vận dụng và phát triển sáng tạo sau Lênin đến nay.",
-        d: "Từ 1848 đến Công xã Pari (1871); Sau Công xã Pari đến 1895; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 196",
-        question: "Quan niệm dân gian nào ảnh hưởng xấu đến chính sách dân số của Nhà nước?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cơn hơn cha là nhà có phước.",
-        b: "Một giọt máu đào hơn ao nước lã.",
-        c: "Cha mẹ sinh con trời sinh tính.",
-        d: "Đông con hơn nhiều của.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 197",
-        question: "Thực hiện sứ mệnh lịch sử của mình trên lĩnh vực văn hoá, tư tưởng cần tập trung xây dựng hệ giá trị mới bao gồm:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Lao động; công bằng; dân chủ; bình đẳng và tự do.",
-        b: "Lao động; công chính; dân chủ; tự do và bác ái.",
-        c: "Công bằng; dân chủ; văn minh; tự do và bác ái.",
-        d: "Dân chủ; công bằng; văn minh; bình đẳng và tự do.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 198",
-        question: "Trong hệ thống xã hội, mỗi loại hình cơ cấu xã hội có vị trí và vai trò:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Hợp tác với nhau.",
-        b: "Phụ thuộc lẫn nhau.",
-        c: "Song song ngang nhau.",
-        d: "Không ngang nhau.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 199",
-        question: "Chủ nghĩa xã hội theo thuật ngữ tiếng Anh được viết là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Socialism.",
-        b: "Political Economic.",
-        c: "Philosophy.",
-        d: "Social democracy.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 200",
-        question: "Các tôn giáo hiện nay ở Việt Nam hoạt động:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Không cần dựa trên quy chuẩn pháp luật.",
-        b: "Không cần dựa trên quy chuẩn đạo đức.",
-        c: "Đan xen, hỗ trợ với nhau cùng phát triển.",
-        d: "Bình đẳng trong khuôn khổ pháp luật.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 201",
-        question: "Các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tương trợ và giúp đỡ lẫn nhau cùng tiến bộ là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Điểm mới trong xã hội Việt Nam.",
-        b: "Đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam.",
-        c: "Biểu hiện của sự phát triển của các dân tộc.",
-        d: "Đặc trưng quan trọng để xây dựng và phát triển đất nước.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 202",
-        question: "Chọn đáp án KHÔNG đúng với sứ mệnh của nhà nước XHCN:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Xây dựng thành công chủ nghĩa xã hội.",
-        b: "Đưa nhân dân lao động lên làm địa vị làm chủ trên tất cả các mặt của đời sống.",
-        c: "Chăm lo cho lợi ích của đại đa số nhân dân lao động.",
-        d: "Giải quyết mâu thuẫn trong xã hội; thực hiện xoá đói, giảm nghèo; thực hiện tiến bộ và công bằng xã hội.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 203",
-        question: "Mâu thuẫn thể hiện tính chất đối kháng không thể điều hoà giữa giai cấp công nhân và giai cấp tư sản:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Mâu thuẫn về lợi ích kinh tế.",
-        b: "Mâu thuẫn về lợi ích chính trị.",
-        c: "Mâu thuẫn về chế độ tư hữu về tư liệu sản xuất.",
-        d: "Mâu thuẫn giữa lực lượng sản xuất xã hội hoá ngày càng rộng lớn với quan hệ sản xuất TBCN.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 204",
-        question: "Về chính trị, nhà nước XHCN mang bản chất của:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giai cấp công nhân – giai cấp có lợi ích phù hợp với lợi ích chung của quần chúng nhân dân lao động.",
-        b: "Giai cấp thống trị, nhằm bảo vệ và duy trì địa vị của mình.",
-        c: "Giai cấp vô sản, nhằm giải phóng giai cấp của mình và giải phóng tất cả các tầng lớp nhân dân lao động khác trong xã hội.",
-        d: "Giai cấp công nhân, nông dân và lao động trí óc.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 205",
-        question: "Trong tác phẩm nào sau đây phản ánh hạn chế của chủ nghĩa xã hội không tưởng:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tuyên ngôn Đảng Cộng sản – Mác, Ăngghen.",
-        b: "Ba nguồn gốc, ba bộ phận hợp thành chủ nghĩa Mác – V.I.Lênin.",
-        c: "Chống Đuyrinh – Ph.Ăngghen.",
-        d: "Làm gì? - V.I.Lênin.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 206",
-        question: "Chọn đáp án KHÔNG đúng. Các giai cấp, tầng lớp xã hội và nhóm xã hội cơ bản trong cơ cấu xã hội – giai cấp của thời kì quá độ lên CNXH là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giai cấp công nhân.",
-        b: "Giai cấp tư bản.",
-        c: "Giai cấp nông dân.",
-        d: "Tầng lớp doanh nhân.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 207",
-        question: "Sự hình thành và phát triển của Chủ nghĩa xã hội khoa học trải qua mấy giai đoạn?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "3 giai đoạn.",
-        b: "2 giai đoạn.",
-        c: "4 giai đoạn.",
-        d: "5 giai đoạn.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 208",
-        question: "Ở nước ta, thực hiện có hiệu quả chính sách dân số là nhằm mục đích nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đảm bảo trật tự, an toàn xã hội.",
-        b: "Thực hiện xóa đói, giảm nghèo.",
-        c: "Ổn định mọi mặt đời sống xã hội, phát triển kinh tế.",
-        d: "Thúc đẩy sản xuất phát triển.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 209",
-        question: "Chọn đáp án KHÔNG đúng. Tộc người là cộng đồng người được hình thành lâu dài trong lịch sử có đặc trưng cơ bản:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cộng đồng về ngôn ngữ.",
-        b: "Cộng đồng về kinh tế.",
-        c: "Cộng đồng về văn hoá.",
-        d: "Ý thức tự giác tộc người.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 210",
-        question: "Quyền bình đẳng giữa các dân tộc là cơ sở để:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Thực hiện quyền dân tộc thuộc địa và xây dựng mối quan hệ đoàn kết giữa các dân tộc thuộc địa.",
-        b: "Thực hiện quyền ngang nhau giữa các dân tộc thuộc địa và xây dựng mối quan hệ đoàn kết giữa các dân tộc thuộc địa.",
-        c: "Thực hiện quyền dân tộc tự quyết và xây dựng mối quan hệ hữu nghị, hợp tác giữa các dân tộc.",
-        d: "Thực hiện quyền dân tộc tự do và xây dựng mối quan hệ hữu nghị, hợp tác giữa các dân tộc.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 211",
-        question: "Chọn đáp án đúng nhất. Gia đình có vai trò quyết định đối với:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cuộc sống cá nhân của tất cả các thành viên trong gia đình.",
-        b: "Giáo dục tư tưởng lối sống cho các thành viên trong gia đình.",
-        c: "Chính sách xã hội hoá giáo dục.",
-        d: "Sự tồn tại, vận động và phát triển của xã hội.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 212",
-        question: "Phát kiến vĩ đại nào của Ph. Ăngghen và C. Mác để khắc phục hạn chế của chủ nghĩa xã hội không tưởng?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chủ nghĩa duy vật lịch sử.",
-        b: "Học thuyết về giá trị thặng dư.",
-        c: "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
-        d: "Chủ nghĩa duy vật biện chứng.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 213",
-        question: "Tác phẩm nào của Ph.Ăngghen đã luận chứng sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Gia đình thánh.",
-        b: "Hệ tư tưởng Đức.",
-        c: "Chống Đuyrinh.",
-        d: "Tuyên ngôn Đảng Cộng sản.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 214",
-        question: "C.Mác và Ph.Ăngghen đã chỉ rõ: “bước thứ nhất trong cách mạng công nhân là […]”. Chọn đáp án đúng nhất điền vào chổ trống.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giai cấp vô sản biến thành giai cấp thống trị là giành lấy dân chủ.",
-        b: "Giai cấp tư sản biến thành giai cấp bị thống trị là giành lấy dân chủ.",
-        c: "Giai cấp tư sản biến thành giai cấp bị lật đổ là giành lấy dân chủ.",
-        d: "Giai cấp công nhân thay thế giai cấp tư sản giành lấy chính quyền là giành lấy dân chủ.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 215",
-        question: "Quyền tự quyết dân tộc KHÔNG bao gồm:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Quyền phân lập thành quốc gia độc lập của các tộc người thiểu số trong một quốc gia đa tộc người.",
-        b: "Quyền các dân tộc tự quyết định lấy vận mệnh và quyền tự lựa chọn chế độ chính trị.",
-        c: "Quyền tách ra thành lập một quốc gia dân tộc độc lập và quyền tự nguyện liên hiệp với dân tộc khác.",
-        d: "Quyền các dân tộc có quyền tự lựa chọn chế độ chính trị và con đường phát triển cho dân tộc mình.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 216",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản trên lý thuyết có thể được thực hiện theo con đường nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đấu tranh chính trị.",
-        b: "Đấu tranh chính trị và đấu tranh vũ trang.",
-        c: "Bạo lực vũ trang.",
-        d: "Nhân đạo, hoà bình.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 217",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, chủ nghĩa xã hội phải là xã hội:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện.",
-        b: "Giải phóng giai cấp nông dân, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện cá nhân.",
-        c: "Giải phóng giai cấp công nhân, giải phóng dân tộc, giải phóng con người, tạo điều kiện để con người phát triển toàn diện giá trị bản thân.",
-        d: "Giải phóng giai cấp vô sản, giải phóng con người khỏi áp bức, bóc lột, bất công, tạo điều kiện để con người phát triển toàn diện giá trị tập thể.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 218",
-        question: "Nội dung nào là một trong những phương hướng cơ bản của chính sách dân số ở nước ta?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Tăng cường công tác lãnh đạo và quản lí đối với công tác dân số.",
-        b: "Tăng cường bộ máy Nhà nước đối với công tác dân số.",
-        c: "Tiếp tục giảm tốc độ gia tằn dân số.",
-        d: "Phân bố dân số hợp lí.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 219",
-        question: "Giai cấp công nhân Việt Nam ra đời vào thời gian nào? Chọn đáp án đúng nhất.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Trước giai cấp tư sản Pháp vào đầu thế kỷ XIX.",
-        b: "Trước giai cấp tư sản Việt Nam vào đầu thế kỷ XX.",
-        c: "Trước giai cấp tư sản Pháp vào đầu thế kỷ XX.",
-        d: "Trước giai cấp tư sản Việt Nam vào đầu thế kỷ XXI.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 220",
-        question: "Chọn đáp án KHÔNG đúng. Cơ cấu xã hội – giai cấp của thời kỳ quá độ lên CNXH có những biến đổi mang tính qui luật là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Bị qui định bởi cơ cấu kinh tế của thời kỳ quá độ lên CNXH.",
-        b: "Biến đổi gắn liền với sự phát triển của cách mạng vô sản.",
-        c: "Biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới.",
-        d: "Biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 221",
-        question: "Chọn đáp án KHÔNG đúng. Nguồn gốc của tôn giáo:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Nguồn gốc địa lý, lịch sử hình thành con người.",
-        b: "Nguồn gốc tự nhiên, kinh tế – xã hội.",
-        c: "Nguồn gốc nhận thức.",
-        d: "Nguồn gốc tâm lý.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 222",
-        question: "Chọn đáp án đúng nhất. Theo chủ nghĩa Mác – Lênin bản chất của tôn giáo là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Một hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan.",
-        b: "Phản ánh hư ảo của những lực lượng bên ngoài chi phối cuộc sống hàng ngày của con người.",
-        c: "Một hiện tượng xã hội – văn hoá do con người sáng tạo ra, phản ánh ước mơ, suy nghĩ của họ.",
-        d: "Một thực thể xã hội với các tiêu chí cơ bản: có niềm tin sâu sắc vào đấng siêu nhiên, thần linh.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 223",
-        question: "Hiện nay ở Việt Nam, để đảm bảo lợi ích của gia đình và sự phát triển bền vững của xã hội, thông điệp trong kế hoạch hoá gia đình là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Nên có từ 1 đến 2 con.",
-        b: "Nên sinh đủ 2 con.",
-        c: "Nên sinh 1 con.",
-        d: "Nên sinh 1 trai, 1 gái.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 224",
-        question: "Trong cơ cấu xã hội – giai cấp, giai cấp hay tầng lớp nào giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giai cấp tư bản.",
-        b: "Tầng lớp trí thức mới.",
-        c: "Đảng Cộng sản.",
-        d: "Giai cấp công nhân.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 225",
-        question: "Tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chống Đuyrinh – Ph.Ăngghen.",
-        b: "Làm gì? - V.I.Lênin.",
-        c: "Bộ Tư bản – C.Mac.",
-        d: "Tình cảnh nước Anh – Ph.Ăngghen.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 226",
-        question: "Mục tiêu phân bố dân cư hợp lí của chính sách dân số nước ta để:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giảm sự chênh lệch lao động giữa các vùng.",
-        b: "Khai thác tiềm năng và phát huy thế mạnh của từng vùng, miền.",
-        c: "Hạn chế tập trung đông dân cư vào đô thị lớn.",
-        d: "Giảm lao động thừa ở thành thị.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 227",
-        question: "Sự chuyển đổi trong cơ cấu kinh tế thị trường dẫn đến biến đổi trong cơ cấu xã hội – giai cấp, hình thành cơ cấu xã hội – giai cấp đa dạng hơn ở Việt Nam được bắt đầu từ thời điểm nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Sau cách mạng tháng Tám năm 1945.",
-        b: "Sau cách mạng thống nhất đất nước năm 1975.",
-        c: "Từ Đại hội VI của Đảng năm 1986.",
-        d: "Từ Đại hội VII của Đảng năm 1991.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 228",
-        question: "Công cụ để xoá bỏ những lệ cũ, lạc hậu, đè nặng lên vai người phụ nữ đồng thời thực hiện giải phóng phụ nũ và bảo vệ hạnh phúc gia đình trong thời kỳ quá độ lên CNXH là gì?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Luật pháp nghiêm minh.",
-        b: "Nhà nước pháp quyền.",
-        c: "Hội liên hiệp phụ nữ.",
-        d: "Đạo đức XHCN.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 229",
-        question: "Loại hình nào của cơ cấu xã hội có vị trí quan trọng nhất?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Cơ cấu xã hội – giai cấp.",
-        b: "Cơ cấu xã hội – dân cư.",
-        c: "Cơ cấu xã hội – dân tộc.",
-        d: "Cơ cấu xã hội – tôn giáo.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 230",
-        question: "Sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Giải quyết mâu thuẫn lợi ích cơ bản giữa giai cấp vô sản với nhà nước phong kiến, thiết lập nhà nước XHCN, thực hiện tiến bộ và công bằng, dân chủ xã hội.",
-        b: "Giải quyết mâu thuẫn lợi ích cơ bản giữa giai cấp công nhân với giai cấp tư sản, phấn đấu cho việc xác lập một trật tự xã hội mới công bằng và bình đẳng.",
-        c: "Lực lượng đi đầu trong sự nghiệp công nghiệp hoá, hiện đại hoá đất nước vì mục tiêu dân giàu nước, nước mạnh, dân chủ, công bằng, văn minh.",
-        d: "Thực hiện cuộc cách mạng của đại đa số mưu lợi ích cho tuyệt đại đa số, nhờ việc hướng tới xây dựng một xã hội mới dựa trên công hữu những tư liệu sản xuất chủ yếu của xã hội.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 231",
-        question: "Yếu tố quyết định mối quan hệ hợp tác và gắn bó chặt chẽ với nhau trong cơ cấu xã hội – giai cấp của thời kì quá độ lên CNXH là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chung sức xây dựng xã hội mới, xã hội XHCN.",
-        b: "Chung sức xây dựng xã hội mới, loại bỏ những thói hư tật xấu của xã hội cũ để lại.",
-        c: "Chung sức cải tạo xã hội cũ, xây dựng xã hội mới trên mọi lĩnh vực.",
-        d: "Đoàn kết, nhất trí trong xây dựng xã hội XHCN công bằng, giàu mạnh.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 232",
-        question: "Trên lĩnh vực tư tưởng và văn hóa, thời kì quá độ ở nước ta có đặc điểm gì?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Nền văn háo tiến bộ, đậm đà bản sắc dân tộc.",
-        b: "Quá trình hội nhập với văn hóa thế giới diên ra mạnh mẽ.",
-        c: "Còn tồn tại nhiều loại, nhiều khuynh hướng tư tưởng, văn hóa khác nhau.",
-        d: "Các giá trị văn hóa truyền thống được giữ gìn, phát huy.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 233",
-        question: "Bản chất dân chủ XHCN ở Việt Nam được thực hiện thông qua hình thức:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Dân chủ gián tiếp, dân chủ đại diện.",
-        b: "Dân chủ gián tiếp, dân chủ trực tiếp.",
-        c: "Dân chủ trực tiếp.",
-        d: "Dân chủ uỷ quyền.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 234",
-        question: "Giai cấp công nhân muốn thực hiện cuộc cách mạng triệt để phải thông qua đội tiên phong là:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đảng Cộng sản Bônsevich.",
-        b: "Đảng Cộng sản Việt Nam.",
-        c: "Quốc tế Cộng sản.",
-        d: "Đảng Cộng sản.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 235",
-        question: "Theo Mác và Ăngghen giai cấp công nhân đại biểu cho, chọn phương án đúng nhất:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Phương thức sản xuất hiện đại.",
-        b: "Ý chí đấu tranh của giai cấp vô sản.",
-        c: "Lực lượng, phương thức sản xuất tiên tiến, quyết định sự tồn tại và phát triển của xã hội hiện đại.",
-        d: "Tinh thần cách mạng triệt để.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 236",
-        question: "“Chế độ dân chủ vô sản so với bất kỳ chế độ dân chủ tư sản nào cũng dân chủ hơn gấp triệu lần..” là phát biểu của ai?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "C. Mác.",
-        b: "V.I.Lênin.",
-        c: "Ph.Ăngghen.",
-        d: "Hồ Chí Minh.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 237",
-        question: "Đảng ta đề ra bao nhiêu phương hướng cơ bản để xây dựng cơ cấu xã hội – giai cấp và tăng cường khối liên minh giai cấp, tầng lớp trong xã hội Việt Nam?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Bốn phương hướng.",
-        b: "Năm phương hướng.",
-        c: "Sáu phương hướng.",
-        d: "Tám phương hướng.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 238",
-        question: "Những yếu tố tư tưởng XHCN được xuất hiện từ khi nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Chế độ tư bản chủ nghĩa ra đời.",
-        b: "Sự xuất hiện chế độ tư hữu, xuất hiện giai cấp thống trị và bóc lột.",
-        c: "Sự xuất hiện giai cấp công nhân.",
-        d: "Thời cộng sản nguyên thủy.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 239",
-        question: "Để thực hiện được quyền bình đẳng dân tộc, trước hết:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Phải thủ tiêu giai cấp tư sản.",
-        b: "Phải thủ tiêu tình trạng áp bức giai cấp.",
-        c: "Phải thủ tiêu nhà nước tư sản.",
-        d: "Phải thủ tiêu bất bình đẳng giữa các dân tộc.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 240",
-        question: "Chủ nghĩa xã hội mà nước ta đang xây dựng là một xã hội phát triển:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Ưu việt hơn các xã hội trước.",
-        b: "Lợi thế hơn các xã hội trước.",
-        c: "Nhanh chóng.",
-        d: "Tự do.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 241",
-        question: "Sứ mệnh lịch sử của giai cấp công nhân xuất phát từ tiền đề kinh tế – xã hội với biểu hiện nổi bật:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Xã hội hoá sản xuất làm xuất hiện những tiền đề vật chất, thúc đẩy sự phát triển của xã hội, thúc đẩy sự vận động của mâu thuẫn cơ bản trong lòng phương thức sản xuất TBCN.",
-        b: "Xã hội hoá sản xuất làm thúc đẩy mâu thuẫn giữa LLSX với tính chất chiếm hữu tư nhân TBCN về tư liệu sản xuất và sản sinh ra giai cấp công nhân, rèn luyện nó thành chủ thể để giải quyết mâu thuẫn.",
-        c: "Giải quyết mâu thuẫn cơ bản về kinh tế và chính trị trong lòng phương thức sản xuất TBCN, đó là tính quy định khách quan, yêu cầu khách quan của sự vận động, phát triển của lịch sử từ TBCN lên CNXH.",
-        d: "Thực hiện cuộc cách mạng của đại đa số mưu lợi ích cho tuyệt đại đa số, nhờ việc hướng tới xây dựng một xã hội mới dựa trên công hữu những tư liệu sản xuất chủ yếu của xã hội.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 242",
-        question: "Dựa trên cơ sở tổng kết kinh nghiệm cuộc cách mạng trong giai đoạn nào của giai cấp công nhân, Ph.Ăngghen và C.Mác tiếp tục phát triển nội dung của chủ nghĩa xã hội khoa học?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Từ năm 1948 đến 1952.",
-        b: "Từ năm 1748 đến 1752.",
-        c: "Từ năm 1850 đến 1852.",
-        d: "Từ năm 1848 đến 1852.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 243",
-        question: "“Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong thực thi các quyền lập pháp, hành pháp, tư pháp” là quan điểm của:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đại hội Đảng toàn quốc lần thứ IX.",
-        b: "Đại hội Đảng toàn quốc lần thứ X.",
-        c: "Đại hội Đảng toàn quốc lần thứ XI.",
-        d: "Đại hội Đảng toàn quốc lần thứ XII.",
-        },
-        correctAnswer: "d",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là d"
-        },
-    {
-        title: "Câu 244",
-        question: "Thuật ngữ “dân chủ” ra đời vào khoảng thời gian nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Thế kỷ thứ VII – VI trước công nguyên.",
-        b: "Thế kỷ thứ VII – VI sau công nguyên.",
-        c: "Thế kỷ thứ V – IV trước công nguyên.",
-        d: "Thế kỷ thứ V – IV sau công nguyên.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 245",
-        question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản trên thực tế được thực hiện theo con đường nào?",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đấu tranh chính trị.",
-        b: "Đấu tranh chính trị và đấu tranh vũ trang.",
-        c: "Bạo lực vũ trang.",
-        d: "Nhân đạo, hoà bình.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 246",
-        question: "Giai cấp công nhân Việt Nam bao gồm lực lượng nào? Chọn phương án đúng nhất.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Lao động chân tay và trí óc, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
-        b: "Lao động giản đơn và trừu tượng, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
-        c: "Lao động phức tạp và giản đơn, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
-        d: "Lao động trí thức và giản đơn, làm công hưởng lương trong các loại hình sản xuất, kinh doanh, dịch vụ có tính chất công nghiệp.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
-    {
-        title: "Câu 247",
-        question: "Chọn đáp án KHÔNG đúng. Dân tộc Việt Nam hiện nay có đặc điểm nổi bật:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Các dân tộc ở Việt Nam có trình độ phát triển không đều.",
-        b: "Các dân tộc Việt Nam có truyền thống đoàn kết gắn bó lâu đời trong cộng đồng dân tộc – quốc gia thống nhất.",
-        c: "Các dân tộc cư trú theo từng vùng lãnh thổ riêng biệt, dân tộc thiểu số sống chủ yếu ở vùng đồi núi.",
-        d: "Mỗi dân tộc có bản sắc văn hoá riêng, góp phần tạo nên sự phong phú đa dạng của nền văn hoá Việt Nam thống nhất.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 248",
-        question: "Điền vào chổ trống. “Bên cạnh những dấu vết của xã hội cũ, xuất hiện những yếu tố của xã hội mới, do vậy tất yếu sẽ diễn ra sự tồn tại […] giữa những giai cấp, tầng lớp cũ và mới”.",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Song song.",
-        b: "Đan xen.",
-        c: "Kết hợp.",
-        d: "Thay thế.",
-        },
-        correctAnswer: "b",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là b"
-        },
-    {
-        title: "Câu 249",
-        question: "Điểm tương đồng giữa giai cấp công nhân hiện nay và giai cấp công nhân truyền thống ở thế kỷ XIX, chọn đáp án đúng nhất:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Đều là LLSX hiện đại, chủ thể của sử dụng máy móc trong sản xuất.",
-        b: "Đều là LLSX hàng đầu của xã hội đại diện cho máy móc, phương thức sản xuất tiên tiến.",
-        c: "Đều là LLSX hàng đầu, bị giai cấp tư sản bóc lột, luôn là lực lượng đi đầu trong đấu tranh vì hoà bình, hợp tác và phát triển, dân chủ, tiến bộ XHCN.",
-        d: "Đều là đại diện đi đầu cho các phong trào đấu tranh vì hoà bình, hợp tác và phát triển, vì dân sinh, dân chủ, tiến bộ xã hội và chủ nghĩa xã hội.",
-        },
-        correctAnswer: "c",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là c"
-        },
-    {
-        title: "Câu 250",
-        question: "Xu hướng biến đổi cơ cấu kinh tế ở mỗi quốc gia khi bắt đầu thời kỳ quá độ diễn ra khác nhau là bởi vì:",
-        background: "<img src='./img/bg_slide1.jpg'>",
-        answers: {
-        a: "Do qui định bởi sự khác biệt về trình độ phát triển kinh tế, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
-        b: "Do qui định bởi sự khác biệt về trình độ phát triển xã hội, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
-        c: "Do qui định bởi sự khác biệt về trình độ phát triển lực lượng sản xuất, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
-        d: "Do qui định bởi sự khác biệt về trình độ phát triển phương thức sản xuất, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
-        },
-        correctAnswer: "a",
-        correctAnswerText: "Đúng",
-        falseAnswerText: "Sai, câu trả lời đúng là a"
-        },
+    // {
+    //     title: "Câu 126",
+    //     question: "Trong thời kỳ quá độ lên CNXH ở Việt Nam, nhiệm vụ trung tâm mà giai cấp công nhân phải lãnh đạo thực hiện là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Thực hiện dân chủ trong lĩnh vực chính trị.",
+    //     b: "Thực hiện mục tiêu dân giàu, nước mạnh.",
+    //     c: "Phát triển văn hoá, xây dựng con người XHCN.",
+    //     d: "Phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 127",
+    //     question: "Nội dung nào sau đây thuộc nội dung bổ sung của Ph.Ăngghen và C.Mác vào chủ nghĩa xã hội khoa học thời kì sau Công xã Pari đến 1895?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tư tưởng xoá bỏ quan hệ sản xuất tư bản, xây dựng quan hệ sản xuất XHCN.",
+    //     b: "Đập tan bộ máy nhà nước quan liêu, không đập tan toàn bộ bộ máy nhà nước tư sản nói chung.",
+    //     c: "Tư tưởng đập tan nhà nước tư sản, thiết lập chuyên chính vô sản.",
+    //     d: "Tư tưởng sự kết hợp đấu tranh giai cấp vô sản với phong trào đấu tranh của nông dân.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 128",
+    //     question: "Nội dung nào sau đây không thuộc nội dung bổ sung của Ph.Ăngghen và C.Mác vào chủ nghĩa xã hội khoa học thời kì 1848 đến Công xã Pari?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tư tưởng xoá bỏ quan hệ sản xuất tư bản, xây dựng quan hệ sản xuất XHCN.",
+    //     b: "Tư tưởng đập tan nhà nước tư sản, thiết lập chuyên chính vô sản.",
+    //     c: "Tư tưởng sự kết hợp đấu tranh giai cấp vô sản với phong trào đấu tranh của nông dân.",
+    //     d: "Tư tưởng xây dựng khối liên minh giai cấp công nhân và giai cấp nông dân.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 129",
+    //     question: "Chọn đáp án KHÔNG đúng. Dân tộc là cộng đồng chính trị – xã hội có đặc trưng cơ bản:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Có chung phương thức sinh hoạt kinh tế.",
+    //     b: "Có lãnh thổ chung ổn định không bị chia cắt.",
+    //     c: "Có sự quản lý của một nhà nước, nhà nước dân tộc độc lập.",
+    //     d: "Có chung một ngôn ngữ giao tiếp.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 130",
+    //     question: "Tác phẩm kinh điển chủ yếu của chủ nghĩa xã hội khoa học là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tuyên ngôn của Đảng Cộng sản.",
+    //     b: "Tuyên ngôn Đảng Cộng sản Việt Nam.",
+    //     c: "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+    //     d: "Học thuyết về giá trị thặng dư.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 131",
+    //     question: "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, chủ nghĩa cộng sản ra đời dựa trên việc giải quyết mâu thuẫn giữa:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Sự ra đời của nền đại công nghiệp cơ khí với lợi ích của giai cấp vô sản.",
+    //     b: "Sự phát triển của các công ty độc quyền với quyền lợi của đại bộ phận giai cấp công nhân.",
+    //     c: "Sự phát triển của nhà nước tư bản độc quyền với quyền lợi của giai cấp vô sản và bần cùng hoá.",
+    //     d: "Quan hệ sản xuất TBCN dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa với lực lượng sản xuất được cơ khí hoá, hiện đại hoá mang tính xã hội hoá cao.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 132",
+    //     question: "Luận điểm nào sau đây không phải do V.I.Lênin viết bàn về những nguyên lý của chủ nghĩa xã hội khoa học trong thời kỳ mới?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Về chuyên chính vô sản; Thời kỳ quá độ chính trị từ CNTB lên CNCS.",
+    //     b: "Về chế độ dân chủ: không có dân chủ thuần tuý hay dân chủ nói chung.",
+    //     c: "Về thời kỳ quá độ chính trị từ các nước không qua giai đoạn tư bản tiến lên CNXH.",
+    //     d: "Về cải cách hành chính bộ máy nhà nước và cương lĩnh xây dựng CNXH ở Nga.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 133",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, đặc trưng cơ bản của giai đoạn đầu của xã hội cộng sản gồm mấy đặc trưng?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "4 đặc trưng.",
+    //     b: "5 đặc trưng.",
+    //     c: "6 đặc trưng.",
+    //     d: "7 đặc trưng.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 134",
+    //     question: "“Tư liệu sản xuất chuyển thành tài sản chung, thì gia đình cá thể sẽ không còn là đơn vị kinh tế xã hội nữa. Việc nuôi dạy con cái trở thành công việc của xã hội”. Phát biểu này của ai?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Hồ Chí Minh.",
+    //     b: " C.Mac.",
+    //     c: "V.I.Lênin.",
+    //     d: "Ph.Ăngghen.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 135",
+    //     question: "Đời sống của nhân dân giữa những vùng, miền của đất nước còn có sự chênh lệch là đặc điểm của thời kì quá độ trong lĩnh vực nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chính trị.",
+    //     b: "Kinh tế.",
+    //     c: "Tư tưởng và văn hóa.",
+    //     d: "Xã hội.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 136",
+    //     question: "Theo Ph.Ăngghen, với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có mấy chế độ dân chủ ra đời?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "2 (dân chủ tư sản; dân chủ XHCN).",
+    //     b: "3 (dân chủ nguyên thuỷ; dân chủ tư sản; dân chủ XHCN).",
+    //     c: "4 (dân chủ nguyên thuỷ; dân chủ chủ nô; dân chủ tư sản; dân chủ XHCN).",
+    //     d: "3 (dân chủ chủ nô; dân chủ tư sản; dân chủ XHCN).",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 137",
+    //     question: "Cơ sở, nền tảng pháp lý cho sự tồn tại và hình thành nên các mối quan hệ khác trong gia đình là gì?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Quan hệ huyết thống.",
+    //     b: "Quan hệ kinh tế.",
+    //     c: "Quan hệ nuôi dưỡng.",
+    //     d: "Quan hệ hôn nhân.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 138",
+    //     question: "Việc hình thành khối liên minh công, nông, trí trong thời kỳ quá độ lên CNXH xuất phát từ:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Nhu cầu của cuộc cách mạng khoa học công nghệ.",
+    //     b: "Nhu cầu và lợi ích kinh tế của chính họ.",
+    //     c: "Nhu cầu của công nghiệp hoá, hiện đại hoá.",
+    //     d: "Nhu cầu trở thành lãnh đạo xã hội của giai cấp công nhân.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 139",
+    //     question: "Nhà nước XHCN ra đời là kết quả của:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cách mạng do giai cấp vô sản lãnh đạo, đập tan nhà nước tư sản.",
+    //     b: "Cách mạng do giai cấp vô sản lãnh đạo, đập tan nhà nước tư sản, xây dựng nhà nước của giai cấp vô sản.",
+    //     c: "Cách mạng do giai cấp vô sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản.",
+    //     d: "Cách mạng do giai cấp công nhân, nông dân tiến hành dưới sự lãnh đạo của Đảng Cộng sản.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 140",
+    //     question: "Hiện nay ở Việt Nam, đội ngũ doanh nhân được Đảng chủ trương xây dựng thành:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Một đội ngũ đặc biệt.",
+    //     b: "Một đội ngũ vững mạnh.",
+    //     c: "Một đội ngũ tiềm năng.",
+    //     d: "Một đội ngũ quan trọng.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 141",
+    //     question: "Sự phát triển của giai cấp công nhân được qui định bởi:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Sự phát triển của giai cấp tư sản công nghiệp.",
+    //     b: "Sự phát triển của giai cấp vô sản đại công nghiệp.",
+    //     c: "Sự phát triển của phong trào công nhân quốc tế.",
+    //     d: "Sự phát triển của chủ nghĩa đế quốc.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 142",
+    //     question: "Theo quan điểm của V.I.Lênin, công thức ra đời chủ nghĩa xã hội dưới chế độ xô viết. Chọn đáp án đúng nhất.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chính quyền xô viết + Trật tự ở đường sắt Phổ + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
+    //     b: "Chính quyền cộng sản + Trật tự ở đường sắt Phổ + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
+    //     c: "Chính quyền xô viết + Trật tự xã hội + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
+    //     d: "Chính quyền xô viết + Tự do, bình đẳng, bác ái của Pháp + Kỹ thuật và cách tổ chức các tơ rớt Mỹ + Ngành giáo dục quốc dân Mỹ etc. etc. + + = ∑(tổng số) = chủ nghĩa xã hội.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 143",
+    //     question: "“Với việc sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất, tái sản xuất ra con người, gia đình như một tế bào tự nhiên, là một đơn vị cơ sở để tạo nên cơ thể – xã hội”. Câu trích dẫn này của ai?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Hồ Chí Minh.",
+    //     b: "V.I.Lênin.",
+    //     c: "C.Mac. ",
+    //     d: "Ph.Ăngghen.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 144",
+    //     question: "Quyền nào thể hiện dân chủ trong lĩnh vực văn hóa?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Quyền được đảm bảo về mặt tinh thần khi không còn khả năng lao động.",
+    //     b: "Quyền tham gia thảo luận các vấn đề chung của cả nước.",
+    //     c: "Quyền được thông tin, tự do ngôn luận, tự do báo chí.",
+    //     d: "Quyền được hưởng lợi ích từ sáng tạo nghệ thuật của mình.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 145",
+    //     question: "Văn kiện nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tuyên ngôn của Đảng Cộng sản.",
+    //     b: "Tuyên ngôn độc lập Mỹ – 1776.",
+    //     c: "Tuyên ngôn nhân quyền và dân quyền Pháp – 1791.",
+    //     d: "Tuyên ngôn Đảng Cộng sản Việt Nam.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 146",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, trong chủ nghĩa xã hội phải thiết lập nhà nước:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chuyên chính cộng sản.",
+    //     b: "Chuyên chính dân tộc.",
+    //     c: "Chuyên chính vô sản.",
+    //     d: "Của dân, do dân, vì dân.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 147",
+    //     question: "Quá độ từ xã hội tiền tư bản lên chủ nghĩa xã hội, bỏ qua giai đoạn phát triển tư bản chủ nghĩa là quá độ:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Gián tiếp.",
+    //     b: "Nhảy vọt.",
+    //     c: "Đứt quãng.",
+    //     d: "Không cơ bản.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 148",
+    //     question: "Theo các nhà nghiên cứu CNHX khoa học, việc xây dựng gia đình dựa trên cơ sở kinh tế, chính trị mà thiếu đi cơ sở văn hoá thì dẫn đến:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Việc xây dựng gia đình sẽ khó khăn trăm bề.",
+    //     b: "Việc xây dựng gia đình sẽ không đảm bảo được hạnh phúc.",
+    //     c: "Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả cao.",
+    //     d: "Việc xây dựng gia đình sẽ không đạt được gia đình văn hoá.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 149",
+    //     question: "Chọn đáp án KHÔNG đúng. Ưu điểm của chủ nghĩa xã hội không tưởng là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Thể hiện tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ TBCN bất công.",
+    //     b: "Đưa ra nhiều luận điểm có giá trị về xã hội tương lai; về tổ chức sản xuất, phân phối; vai trò của khoa học, công nghệ; giải phóng lao động, giải phóng phụ nữ.",
+    //     c: "Thức tỉnh giai cấp công nhân và người lao động trong cuộc đấu tranh chống chế độ quân chủ chuyên chế và chế độ TBCN bất công.",
+    //     d: "Giúp chủ nghĩa tư bản chuyển từ tự do cạnh tranh sang độc quyền, chuẩn bị nền tảng kinh tế, xã hội cho giai cấp công nhân.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 150",
+    //     question: "C.Mác và Ph.Ăngghen bắt đầu nghiên cứu các phong trào đấu tranh của giai cấp công nhân ở đâu và thời gian nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Châu Âu, ở Anh, Pháp vào giữa thế kỷ XIX.",
+    //     b: "Châu Âu, ở Đức, Liên Xô vào giữa thế kỷ XIX.",
+    //     c: "Châu Mỹ, ở Mỹ, Cuba vào giữa thế kỷ XIX.",
+    //     d: "Châu Âu, ở Anh, Pháp vào đầu thế kỷ XIX.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 151",
+    //     question: "Chọn đáp án đúng nhất. Quan niệm gia đình được hiểu là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Một cộng đồng người cá biệt, có vai trò xây dựng nên một xã hội.",
+    //     b: "Hai người kết hôn, tiến tới việc sinh dưỡng thế hệ tương lai của loài người.",
+    //     c: "Một cộng đồng người đặc biệt, có vai trò quyết định đến sự tồn tại và phát triển của xã hội.",
+    //     d: "Một đơn vị đặc biệt quan trọng, là viên gạch đầu tiên để xây dựng nên ngôi nhà xã hội.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 152",
+    //     question: "Chủ nghĩa xã hội khoa học ra đời từ tiền đề là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Sự chuyển biến lập trường triết học và lập trường chính trị của C. Mác và Ph. Ăngghen.",
+    //     b: "Sự chuyển biến lập trường triết học và lập trường chính trị của Lênin.",
+    //     c: "Sự chuyển biến lập trường triết học và lập trường chính trị của C. Mác; Ph. Ăngghen và Lênin.",
+    //     d: "Sự chuyển biến lập trường triết học và lập trường chính trị từ duy tâm sang duy vật.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 153",
+    //     question: "Chọn đáp án KHÔNG đúng. Chủ nghĩa xã hội là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Phong trào thực tiễn, phong trào đấu tranh của nhân dân lao động chống lại áp bức, bất công, chống lại giai cấp thống trị.",
+    //     b: "Trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động ra khỏi ách áp bức, bóc lột, bất công.",
+    //     c: "Một khoa học về sứ mệnh lịch sử của giai cấp công nhân; một chế độ xã hội tốt đẹp.",
+    //     d: "Một lý tưởng mới về xã hội đại đồng, xã hội công bằng và tự trị.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 154",
+    //     question: "Dân chủ xã hội chủ nghĩa là nền dân chủ:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tuyệt đối nhất.",
+    //     b: "Hoàn bị nhất.",
+    //     c: "Rộng rãi nhất và triệt để nhất.",
+    //     d: "Phổ biến nhất trong lịch sử.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 155",
+    //     question: "Nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đảng Cộng sản.",
+    //     b: "Đảng Cộng sản Việt Nam.",
+    //     c: "Liên minh giai cấp công nhân với giai cấp nông dân và các tầng lớp khác trong xã hội.",
+    //     d: "Quốc tế Cộng sản.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 156",
+    //     question: "Chủ nghĩa Mác – Lênin lưu ý: Càng hoàn thiện bao nhiêu, nền dân chủ XHCN lại càng tự tiêu vong bấy nhiêu. Điều này được hiểu là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tính chính trị của dân chủ sẽ mất đi, dân chủ trở thành một thói quen, một tập quán trong sinh hoạt xã hội.",
+    //     b: "Tính dân chủ sẽ mất đi cùng với chế độ nhà nước cũng tiêu vong, không còn nữa.",
+    //     c: "Tính dân chủ sẽ mất đi, thay vào đó là thực hiện dân chủ cộng sản chủ nghĩa.",
+    //     d: "Tính quân chủ sẽ mất đi cùng với chế độ nhà nước cũng tiêu vong, không còn nữa.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 157",
+    //     question: "Trong xã hội phong kiến để duy trì chế độ bóc lột với quan hệ gia trưởng thì qui định đối với người phụ nữ là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chung thuỷ một chồng, nội trợ gia đình.",
+    //     b: "Cha mẹ đặt đâu con ngồi đấy.",
+    //     c: "Tuân thủ đầy đủ “tàm tòng”, “tứ đức”.",
+    //     d: "Công, dung, ngôn, hạnh, hiếu thảo trong gia đình.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 158",
+    //     question: "Quan điểm nào sau đây là sự vận dụng sáng tạo nguyên lý cơ bản của chủ nghĩa xã hội khoa học của Lênin?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cách mạng giải phóng dân tộc bản thân nó được giải quyết trong cách mạng vô sản.",
+    //     b: "Cách mạng vô sản có thể nổ ra và thắng lợi một số nước, nơi CNTB chưa phải phát triển nhất.",
+    //     c: "Cách mạng giải phóng dân tộc có khản năng nổ ra và giành thắng lợi trước cách mạng vô sản.",
+    //     d: "Cách mạng giải phóng dân tộc phụ thuộc vào cách mạng vô sản ở chính quốc.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 159",
+    //     question: "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng Nhà nước xã hội chủ nghĩa được chia thành:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chức năng đối nội, chức năng đối ngoại.",
+    //     b: "Chức năng kinh tế, chức năng chính trị.",
+    //     c: "Chức năng giai cấp, chức năng xã hội.",
+    //     d: "Chức năng đối nội, chức năng chính trị.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 160",
+    //     question: "Bản chất dân chủ XHCN ở Việt Nam. Chọn đáp án KHÔNG đúng.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Được thực hiện ưu tiên trong lĩnh vực chính trị.",
+    //     b: "Vừa là mục tiêu, vừa là động lực để xây dựng chủ nghĩa xã hội.",
+    //     c: "Gắn liền với pháp luật.",
+    //     d: "Do nhân dân làm chủ, quyền lực thuộc về nhân dân.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 161",
+    //     question: "Phát kiến vĩ đại của Mác và Ăngghen cho tiền đề lý luận chủ nghĩa xã hội khoa học là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chủ nghĩa duy vật lịch sử; Học thuyết giá trị thặng dư.",
+    //     b: "Chủ nghĩa duy vật lịch sử; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
+    //     c: "Chủ nghĩa duy vật lịch sử; Học thuyết giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
+    //     d: "Chủ nghĩa duy vật lịch sử; Học thuyết các hình thái kinh tế xã hội; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp Công nhân.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 162",
+    //     question: "Chọn đáp án đúng nhất. Kết quả tất yếu của hôn nhân xuất phát từ tình yêu:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Gia đình hạnh phúc.",
+    //     b: "Kết hôn.",
+    //     c: "Hôn nhân một vợ một chồng.",
+    //     d: "Được sự chứng nhận của pháp luật.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 163",
+    //     question: "Chức năng “trấn áp” của nhà nước XHCN là để:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Duy trì địa vị của giai cấp nắm quyền chiếm hữu tư liệu sản xuất chủ yếu của xã hội.",
+    //     b: "Thể hiện quyền lực của giai cấp vô sản đối với giai cấp tư sản.",
+    //     c: "Trấn áp giai cấp tư sản, trấn áp những phần tử chống đối giai cấp vô sản.",
+    //     d: "Trấn áp giai cấp bóc lột đã bị lật đổ và phần tử chống đối để bảo vệ thành quả cách mạng.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 164",
+    //     question: "Sứ mệnh lịch sử của giai cấp công nhân không phải là thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác mà là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Xoá bỏ triệt để chế độ tư hữu về tư liệu sản xuất.",
+    //     b: "Xoá bỏ triệt để chế độ công hữu về tư liệu sản xuất.",
+    //     c: "Xoá bỏ triệt để chế độ tàn dư tư bản chủ nghĩa.",
+    //     d: "Xoá bỏ triệt để chế độ tàn dư phong kiến.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 165",
+    //     question: "Dân chủ XHCN đánh dấu sự manh nha ra đời từ thực tiễn nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Công nghiệp hơi nước ở Anh năm 1791.",
+    //     b: "Đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871.",
+    //     c: "Đấu tranh giành chính quyền ở Mỹ năm 1776.",
+    //     d: "Cách mạng Tháng 10/1917 ở Nga.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 166",
+    //     question: "Mối quan hệ nào sau đây không phải là quan hệ huyết thống trong gia đình?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Ông nội – Cháu nội.",
+    //     b: "Vợ – Chồng.",
+    //     c: "Con Cô – Con cậu.",
+    //     d: "Anh trai – Em gái.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 167",
+    //     question: "Có mấy loại hình quá độ lên cộng sản chủ nghĩa theo quan điểm của C.Mác và Ph.Ăngghen?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "1 (Từ hình thái kinh tế – xã hội chủ nghĩa tư bản lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
+    //     b: "2 (Từ hình thái kinh tế – xã hội thấp hơn, bỏ qua chủ nghĩa tư bản lên cộng sản chủ nghĩa và từ hình thái kinh tế – xã hội tư bản chủ nghĩa phát triển lên chủ nghĩa cộng sản).",
+    //     c: "1 (Từ hình thái kinh tế – xã hội phong kiến lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
+    //     d: "2 (Từ Từ hình thái kinh tế – xã hội phong kiến lên hình thái kinh tế – xã hội cộng sản chủ nghĩa và từ hình thái kinh tế – xã hội chủ nghĩa tư bản lên hình thái kinh tế – xã hội cộng sản chủ nghĩa).",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 168",
+    //     question: "Tiền đề tư tưởng lý luận cho sự ra đời của chủ nghĩa xã hội khoa học là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Triết học cổ điển Đức; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
+    //     b: "Triết học cổ điển Anh; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa phê phán.",
+    //     c: "Triết học cổ điển Pháp; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
+    //     d: "Triết học Mác - Lênin; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa không tưởng phê phán.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 169",
+    //     question: "“Bước thứ hai và là bước chủ yếu là thủ tiêu chế độ tư hữu ruộng đất…có như thế mới mở đường giải phóng hoàn toàn và thật sự cho phụ nữ, thủ tiêu được chế độ nô lệ gia đình”. Phát biểu này của ai?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Hồ Chí Minh.",
+    //     b: "C.Mac.",
+    //     c: "V.I.Lênin.",
+    //     d: "Ph.Ăngghen.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 170",
+    //     question: "Cơ sở phương pháp luận cho các nhà sáng lập chủ nghĩa xã hội khoa học là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Học thuyết Tiến hoá; Định luật Neuton; Định luật Talet.",
+    //     b: "Học thuyết Tiến hoá; Định luật Neuton; Học thuyết tế bào.",
+    //     c: "Học thuyết Tiến hoá; Định luật Bảo toàn và chuyển hoá năng lượng; Học thuyết tế bào.",
+    //     d: "Học thuyết Tiến hoá; Định luật Neuton; Định luật Bảo toàn và chuyển hoá năng lượng.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 171",
+    //     question: "Quyền nào sau đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Quyền sáng tác văn học.",
+    //     b: "Quyền tự do báo chí.",
+    //     c: "Quyền lao động.",
+    //     d: "Quyền bình đẳng nam nữ.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 172",
+    //     question: "“Học thuyết của Mác là học thuyết vạn năng vì nó là một học thuyết chính xác”, đánh giá này của ai?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Ph. Ăngghen.",
+    //     b: "Hồ Chí Minh.",
+    //     c: "D. Ricacdo.",
+    //     d: "V.I. Lênin.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 173",
+    //     question: "Chọn đáp án đúng nhất. Cơ cấu xã hội - giai cấp là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên.",
+    //     b: "Hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu, về tổ chức sản xuất… giữa các giai cấp và tầng lớp đó.",
+    //     c: "Hệ thống các giai cấp, tầng lớp xã hội tồn tại chủ quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu, về tổ chức sản xuất… giữa các giai cấp và tầng lớp đó.",
+    //     d: "Những cộng đồng người cùng với mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức quản lý quá trình sản xuất, về địa vị chính trị – xã hội … giữa con người với con người.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 174",
+    //     question: "Chọn đáp án KHÔNG đúng. Về văn hoá, xã hội, nhà nước XHCN được xây dựng trên nền tảng:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Lý luận của chủ nghĩa Mác – Lênin.",
+    //     b: "Giá trị văn hoá Phương Tây.",
+    //     c: "Giá trị văn hoá tiên tiến, tiến bộ của nhân loại.",
+    //     d: "Bản sắc văn hoá tiên tiến, đậm đà riêng biệt của dân tộc.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 175",
+    //     question: "Chọn đáp án đúng nhất. Nước ta đang ở giai đoạn phát triển nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chế độ cộng sản chủ nghĩa.",
+    //     b: "Chế độ xã hội chủ nghĩa.",
+    //     c: "Thời kì quá độ lên chủ nghĩa xã hội bỏ qua giai đoạn phát triển tư bản chủ nghĩa.",
+    //     d: "Thời kì quá độ lên chủ nghĩa xã hội.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 176",
+    //     question: "Bản chất kinh tế của nền dân chủ XHCN khác với nền dân chủ tư sản là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chế độ công hữu tư liệu sản xuất và thực hiện chế độ phân phối theo kết quả lao động.",
+    //     b: "Chế độ công hữu tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu.",
+    //     c: "Chế độ sở hữu chung tư liệu sản xuất xã hội và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu.",
+    //     d: "Chế độ công hữu tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo nhu cầu người lao động.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 177",
+    //     question: "Nền dân chủ xã hội chủ nghĩa là nền dân chủ:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Của tất cả mọi người trong xã hội.",
+    //     b: "Của những người lãnh đạo.",
+    //     c: "Của nhân dân lao động.",
+    //     d: "Của giai cấp công nhân.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 178",
+    //     question: "Các nhà sáng lập chủ nghĩa xã hội khoa học đã thừa nhận chủ nghĩa cộng sản ra đời dựa trên vai trò to lớn của:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "C.Mác và Ph.Ăngghen.",
+    //     b: "C.Mac, Ph.Ăngghen và V.I.Lênin.",
+    //     c: "Chủ nghĩa tư bản.",
+    //     d: "V.I.Lênin và cách mạng tháng 10/1917 – Nga.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 179",
+    //     question: "Hành vi, việc làm nào sau đây vi phạm chính sách dân số của Đảng và Nhà nước?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tuyên truyền, phổ biến biện pháp kế hoạch hóa gia đình.",
+    //     b: "Cung cấp các phương tiện tránh thai.",
+    //     c: "Cung cấp các dịch vụ dân số.",
+    //     d: "Lựa chọn giới tính thai nhi dưới mọi hình thức.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 180",
+    //     question: "Chọn đáp án đúng nhất. Hôn nhân tiến bộ là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Xuất phát từ tính tự nguyện của hai bên gia đình.",
+    //     b: "Xuất phát từ hợp đồng được ký trước pháp luật.",
+    //     c: "Xuất phát từ tính tự nguyện của một bên Nam hay Nữ.",
+    //     d: "Xuất phát từ tình yêu lứa đôi.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 181",
+    //     question: "Ở Việt Nam, quá độ lên CNXH bỏ qua chế độ TBCN, tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng TBCN. Nghĩa là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Thời kỳ quá độ không còn quan hệ bóc lột và bị bóc lột.",
+    //     b: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột tư bản chủ nghĩa không giữ vai trò thống trị.",
+    //     c: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột xã hội chủ nghĩa không giữ vai trò thống trị.",
+    //     d: "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, song quan hệ bóc lột tư bản chủ nghĩa dần dần bị xoá bỏ.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 182",
+    //     question: "Chọn đáp án đúng nhất. Theo V.I.Lênin, nội dung chủ yếu và mục đích cuối cùng của nhà nước XHCN là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giải phóng toàn bộ người lao động trong xã hội.",
+    //     b: "Cải tạo xã hội cũ, xây dựng thành công xã hội mới.",
+    //     c: "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+    //     d: "Giải phóng toàn bộ người lao động trong xã hội, phát triển toàn bộ cá nhân.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 183",
+    //     question: "Nền dân chủ xã hội chủ nghĩa gắn liền với:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đạo đức.",
+    //     b: "Phong tục.",
+    //     c: "Truyền thống.",
+    //     d: "Pháp luật.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 184",
+    //     question: "“Ở các nước XHCN, giai cấp công nhân thông qua quá trình công nghiệp hoá và thực hiện […] để tăng năng suất lao động xã hội”. Chọn cụm từ đúng vào chỗ trống.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Một kiểu tổ chức kinh tế mới.",
+    //     b: "Một kiểu tổ chức sản xuất mới.",
+    //     c: "Một kiểu tổ chức xã hội mới về lao động.",
+    //     d: "Một kiểu tổ chức công nghiệp hoá mới về lao động.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 185",
+    //     question: "Trong chính sách tôn giáo của Đảng và Nhà nước ta hiện nay, nội dung cốt lõi của công tác tôn giáo là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Công tác vận động quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
+    //     b: "Công tác giáo dục quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
+    //     c: "Công tác tuyên truyền tư tưởng tốt đẹp của tôn giáo, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
+    //     d: "Công tác đào tạo quần chúng nêu cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 186",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, trong chủ nghĩa xã hội, văn hoá là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tiền đề tinh thần của xã hội, rèn luyện bản lĩnh người cách mạng, biến con người thành có ích cho xã hội.",
+    //     b: "Tiền đề quan trọng cho sự phát triển kinh tế, xã hội, hun đúc và rèn luyện con người thành con người xã hội chủ nghĩa.",
+    //     c: "Tiền đề quan trọng cho sự phát triển kinh tế, xã hội, văn hoá phải soi đường cho quốc dân đi.",
+    //     d: "Nền tảng tinh thần, mục tiêu, động lực phát triển xã hội, trọng tâm là phát triển kinh tế.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 187",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản là cuộc cách mạng của:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giai cấp tư sản tiến bộ lãnh đạo, cùng với tầng lớp trí thức có tư tưởng tiến bộ, hoà bình.",
+    //     b: "Giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+    //     c: "Giai cấp vô sản, tầng lớp tri thức và nhân dân lao động trong xã hội tư bản.",
+    //     d: "Liên minh giai cấp công nhân – nông dân với các tầng lớp lao động trong xã hội tư bản.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 188",
+    //     question: "Điều kiện khách quan của sứ mệnh giai cấp công nhân do:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Địa vị kinh tế và địa vị xã hội của giai cấp công nhân qui định.",
+    //     b: "Địa vị chính trị và địa vị xã hội của giai cấp công nhân qui định.",
+    //     c: "Địa vị kinh tế, chính trị – xã hội của giai cấp công nhân qui định.",
+    //     d: "Địa vị lịch sử khách quan và mâu thuẫn khách quan trong phương thức sản xuất tư bản qui định.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 189",
+    //     question: "Nội dung văn hoá, xã hội của liên minh giai cấp, tầng lớp ở Việt Nam đòi hỏi phải:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Gắn tăng trưởng kinh tế với phát triển văn hoá, phát triển, xây dựng con người và thực hiện tiến bộ, công bằng xã hội.",
+    //     b: "Gắn tăng trưởng kinh tế với phát triển văn hoá, phát triển, xây dựng con người và thực hiện giải quyết việc làm cho người lao động.",
+    //     c: "Gắn tăng trưởng kinh tế với phát triển văn hoá, thực hiện tiến bộ, công bằng xã hội.",
+    //     d: "Gắn phát triển kinh tế với văn hoá, xây dựng con người mới và thực hiện tiến bộ, công bằng xã hội.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 190",
+    //     question: "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước XHCN được chia thành:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chức năng chính trị; chức năng quân sự.",
+    //     b: "Chức năng kinh tế; chức năng văn hoá, xã hội.",
+    //     c: "Chức năng đối nội; chức năng đối ngoại.",
+    //     d: "Chức năng trấn áp; chức năng tổ chức và xây dựng.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 191",
+    //     question: "Những nội dung khái quát về một Nhà nước pháp quyền XHCN Việt Nam được thể hiện trong:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cương lĩnh chính trị đầu tiên của Đảng.",
+    //     b: "Chính cương vắn tắt và sách lược vắn tắt.",
+    //     c: "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+    //     d: "Cương lĩnh xây dựng đất nước trong thời kỳ kháng chiến, kiến quốc.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 192",
+    //     question: "Quá trình phát triển của dân chủ XHCN từ thấp tới cao, có sự kế thừa chọn lọc trước hết giá trị của nền dân chủ nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Dân chủ nguyên thuỷ.",
+    //     b: "Dân chủ chủ nô.",
+    //     c: "Dân chủ xã hội chủ nghĩa.",
+    //     d: "Dân chủ tư sản.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 193",
+    //     question: "Chọn đáp án KHÔNG đúng. Ở các nước quá độ lên CNXH với xuất phát điểm thấp, cơ cấu kinh tế biến đổi:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Từ nông nghiệp, công nghiệp sơ khai sang tăng tỉ trọng công nghiệp và dịch vụ, giảm tỉ trọng nông nghiệp.",
+    //     b: "Từ cơ cấu vùng lãnh thổ chưa định hình sang hình thành các vùng, các trung tâm kinh tế lớn.",
+    //     c: "Từ cơ cấu lực lượng sản xuất hiện đại nhưng không cân đối sang phát triển lực lượng sản xuất với trình độ công nghệ cao.",
+    //     d: "Từ phương thức sản xuất thấp kém lạc hậu sang phương thức sản xuất hiện đại, tiên tiến hơn.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 194",
+    //     question: "Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ, chức năng trấn áp của nhà nước XHCN thể hiện:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tồn tại như một tất yếu.",
+    //     b: "Tồn tại nhưng không cần thiết.",
+    //     c: "Tồn tại trong thời kì đầu của CNXH.",
+    //     d: "Không cần tồn tại.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 195",
+    //     question: "Sự hình thành và phát triển của Chủ nghĩa xã hội khoa học trải qua những thời kỳ nào sau đây?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "C. Mác và Ph. Ăngghen phát triển chủ nghĩa xã hội khoa hoc; Lênin vận dụng và phát triển trong điều kiện mới; Sự vận dụng và phát triển sáng tạo sau Lênin đến nay.",
+    //     b: "Trước công xã Pari; Sau công xã Pari; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga.",
+    //     c: "Trước công xã Pari; Sau công xã Pari; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga; Sự vận dụng và phát triển sáng tạo sau Lênin đến nay.",
+    //     d: "Từ 1848 đến Công xã Pari (1871); Sau Công xã Pari đến 1895; Trước cách mạng tháng Mười Nga;  Sau cách mạng tháng Mười Nga.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 196",
+    //     question: "Quan niệm dân gian nào ảnh hưởng xấu đến chính sách dân số của Nhà nước?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cơn hơn cha là nhà có phước.",
+    //     b: "Một giọt máu đào hơn ao nước lã.",
+    //     c: "Cha mẹ sinh con trời sinh tính.",
+    //     d: "Đông con hơn nhiều của.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 197",
+    //     question: "Thực hiện sứ mệnh lịch sử của mình trên lĩnh vực văn hoá, tư tưởng cần tập trung xây dựng hệ giá trị mới bao gồm:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Lao động; công bằng; dân chủ; bình đẳng và tự do.",
+    //     b: "Lao động; công chính; dân chủ; tự do và bác ái.",
+    //     c: "Công bằng; dân chủ; văn minh; tự do và bác ái.",
+    //     d: "Dân chủ; công bằng; văn minh; bình đẳng và tự do.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 198",
+    //     question: "Trong hệ thống xã hội, mỗi loại hình cơ cấu xã hội có vị trí và vai trò:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Hợp tác với nhau.",
+    //     b: "Phụ thuộc lẫn nhau.",
+    //     c: "Song song ngang nhau.",
+    //     d: "Không ngang nhau.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 199",
+    //     question: "Chủ nghĩa xã hội theo thuật ngữ tiếng Anh được viết là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Socialism.",
+    //     b: "Political Economic.",
+    //     c: "Philosophy.",
+    //     d: "Social democracy.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 200",
+    //     question: "Các tôn giáo hiện nay ở Việt Nam hoạt động:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Không cần dựa trên quy chuẩn pháp luật.",
+    //     b: "Không cần dựa trên quy chuẩn đạo đức.",
+    //     c: "Đan xen, hỗ trợ với nhau cùng phát triển.",
+    //     d: "Bình đẳng trong khuôn khổ pháp luật.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 201",
+    //     question: "Các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tương trợ và giúp đỡ lẫn nhau cùng tiến bộ là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Điểm mới trong xã hội Việt Nam.",
+    //     b: "Đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam.",
+    //     c: "Biểu hiện của sự phát triển của các dân tộc.",
+    //     d: "Đặc trưng quan trọng để xây dựng và phát triển đất nước.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 202",
+    //     question: "Chọn đáp án KHÔNG đúng với sứ mệnh của nhà nước XHCN:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Xây dựng thành công chủ nghĩa xã hội.",
+    //     b: "Đưa nhân dân lao động lên làm địa vị làm chủ trên tất cả các mặt của đời sống.",
+    //     c: "Chăm lo cho lợi ích của đại đa số nhân dân lao động.",
+    //     d: "Giải quyết mâu thuẫn trong xã hội; thực hiện xoá đói, giảm nghèo; thực hiện tiến bộ và công bằng xã hội.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 203",
+    //     question: "Mâu thuẫn thể hiện tính chất đối kháng không thể điều hoà giữa giai cấp công nhân và giai cấp tư sản:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Mâu thuẫn về lợi ích kinh tế.",
+    //     b: "Mâu thuẫn về lợi ích chính trị.",
+    //     c: "Mâu thuẫn về chế độ tư hữu về tư liệu sản xuất.",
+    //     d: "Mâu thuẫn giữa lực lượng sản xuất xã hội hoá ngày càng rộng lớn với quan hệ sản xuất TBCN.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 204",
+    //     question: "Về chính trị, nhà nước XHCN mang bản chất của:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giai cấp công nhân – giai cấp có lợi ích phù hợp với lợi ích chung của quần chúng nhân dân lao động.",
+    //     b: "Giai cấp thống trị, nhằm bảo vệ và duy trì địa vị của mình.",
+    //     c: "Giai cấp vô sản, nhằm giải phóng giai cấp của mình và giải phóng tất cả các tầng lớp nhân dân lao động khác trong xã hội.",
+    //     d: "Giai cấp công nhân, nông dân và lao động trí óc.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 205",
+    //     question: "Trong tác phẩm nào sau đây phản ánh hạn chế của chủ nghĩa xã hội không tưởng:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tuyên ngôn Đảng Cộng sản – Mác, Ăngghen.",
+    //     b: "Ba nguồn gốc, ba bộ phận hợp thành chủ nghĩa Mác – V.I.Lênin.",
+    //     c: "Chống Đuyrinh – Ph.Ăngghen.",
+    //     d: "Làm gì? - V.I.Lênin.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 206",
+    //     question: "Chọn đáp án KHÔNG đúng. Các giai cấp, tầng lớp xã hội và nhóm xã hội cơ bản trong cơ cấu xã hội – giai cấp của thời kì quá độ lên CNXH là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giai cấp công nhân.",
+    //     b: "Giai cấp tư bản.",
+    //     c: "Giai cấp nông dân.",
+    //     d: "Tầng lớp doanh nhân.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 207",
+    //     question: "Sự hình thành và phát triển của Chủ nghĩa xã hội khoa học trải qua mấy giai đoạn?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "3 giai đoạn.",
+    //     b: "2 giai đoạn.",
+    //     c: "4 giai đoạn.",
+    //     d: "5 giai đoạn.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 208",
+    //     question: "Ở nước ta, thực hiện có hiệu quả chính sách dân số là nhằm mục đích nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đảm bảo trật tự, an toàn xã hội.",
+    //     b: "Thực hiện xóa đói, giảm nghèo.",
+    //     c: "Ổn định mọi mặt đời sống xã hội, phát triển kinh tế.",
+    //     d: "Thúc đẩy sản xuất phát triển.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 209",
+    //     question: "Chọn đáp án KHÔNG đúng. Tộc người là cộng đồng người được hình thành lâu dài trong lịch sử có đặc trưng cơ bản:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cộng đồng về ngôn ngữ.",
+    //     b: "Cộng đồng về kinh tế.",
+    //     c: "Cộng đồng về văn hoá.",
+    //     d: "Ý thức tự giác tộc người.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 210",
+    //     question: "Quyền bình đẳng giữa các dân tộc là cơ sở để:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Thực hiện quyền dân tộc thuộc địa và xây dựng mối quan hệ đoàn kết giữa các dân tộc thuộc địa.",
+    //     b: "Thực hiện quyền ngang nhau giữa các dân tộc thuộc địa và xây dựng mối quan hệ đoàn kết giữa các dân tộc thuộc địa.",
+    //     c: "Thực hiện quyền dân tộc tự quyết và xây dựng mối quan hệ hữu nghị, hợp tác giữa các dân tộc.",
+    //     d: "Thực hiện quyền dân tộc tự do và xây dựng mối quan hệ hữu nghị, hợp tác giữa các dân tộc.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 211",
+    //     question: "Chọn đáp án đúng nhất. Gia đình có vai trò quyết định đối với:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cuộc sống cá nhân của tất cả các thành viên trong gia đình.",
+    //     b: "Giáo dục tư tưởng lối sống cho các thành viên trong gia đình.",
+    //     c: "Chính sách xã hội hoá giáo dục.",
+    //     d: "Sự tồn tại, vận động và phát triển của xã hội.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 212",
+    //     question: "Phát kiến vĩ đại nào của Ph. Ăngghen và C. Mác để khắc phục hạn chế của chủ nghĩa xã hội không tưởng?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chủ nghĩa duy vật lịch sử.",
+    //     b: "Học thuyết về giá trị thặng dư.",
+    //     c: "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+    //     d: "Chủ nghĩa duy vật biện chứng.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 213",
+    //     question: "Tác phẩm nào của Ph.Ăngghen đã luận chứng sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Gia đình thánh.",
+    //     b: "Hệ tư tưởng Đức.",
+    //     c: "Chống Đuyrinh.",
+    //     d: "Tuyên ngôn Đảng Cộng sản.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 214",
+    //     question: "C.Mác và Ph.Ăngghen đã chỉ rõ: “bước thứ nhất trong cách mạng công nhân là […]”. Chọn đáp án đúng nhất điền vào chổ trống.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giai cấp vô sản biến thành giai cấp thống trị là giành lấy dân chủ.",
+    //     b: "Giai cấp tư sản biến thành giai cấp bị thống trị là giành lấy dân chủ.",
+    //     c: "Giai cấp tư sản biến thành giai cấp bị lật đổ là giành lấy dân chủ.",
+    //     d: "Giai cấp công nhân thay thế giai cấp tư sản giành lấy chính quyền là giành lấy dân chủ.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 215",
+    //     question: "Quyền tự quyết dân tộc KHÔNG bao gồm:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Quyền phân lập thành quốc gia độc lập của các tộc người thiểu số trong một quốc gia đa tộc người.",
+    //     b: "Quyền các dân tộc tự quyết định lấy vận mệnh và quyền tự lựa chọn chế độ chính trị.",
+    //     c: "Quyền tách ra thành lập một quốc gia dân tộc độc lập và quyền tự nguyện liên hiệp với dân tộc khác.",
+    //     d: "Quyền các dân tộc có quyền tự lựa chọn chế độ chính trị và con đường phát triển cho dân tộc mình.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 216",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản trên lý thuyết có thể được thực hiện theo con đường nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đấu tranh chính trị.",
+    //     b: "Đấu tranh chính trị và đấu tranh vũ trang.",
+    //     c: "Bạo lực vũ trang.",
+    //     d: "Nhân đạo, hoà bình.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 217",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, chủ nghĩa xã hội phải là xã hội:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện.",
+    //     b: "Giải phóng giai cấp nông dân, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện cá nhân.",
+    //     c: "Giải phóng giai cấp công nhân, giải phóng dân tộc, giải phóng con người, tạo điều kiện để con người phát triển toàn diện giá trị bản thân.",
+    //     d: "Giải phóng giai cấp vô sản, giải phóng con người khỏi áp bức, bóc lột, bất công, tạo điều kiện để con người phát triển toàn diện giá trị tập thể.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 218",
+    //     question: "Nội dung nào là một trong những phương hướng cơ bản của chính sách dân số ở nước ta?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Tăng cường công tác lãnh đạo và quản lí đối với công tác dân số.",
+    //     b: "Tăng cường bộ máy Nhà nước đối với công tác dân số.",
+    //     c: "Tiếp tục giảm tốc độ gia tằn dân số.",
+    //     d: "Phân bố dân số hợp lí.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 219",
+    //     question: "Giai cấp công nhân Việt Nam ra đời vào thời gian nào? Chọn đáp án đúng nhất.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Trước giai cấp tư sản Pháp vào đầu thế kỷ XIX.",
+    //     b: "Trước giai cấp tư sản Việt Nam vào đầu thế kỷ XX.",
+    //     c: "Trước giai cấp tư sản Pháp vào đầu thế kỷ XX.",
+    //     d: "Trước giai cấp tư sản Việt Nam vào đầu thế kỷ XXI.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 220",
+    //     question: "Chọn đáp án KHÔNG đúng. Cơ cấu xã hội – giai cấp của thời kỳ quá độ lên CNXH có những biến đổi mang tính qui luật là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Bị qui định bởi cơ cấu kinh tế của thời kỳ quá độ lên CNXH.",
+    //     b: "Biến đổi gắn liền với sự phát triển của cách mạng vô sản.",
+    //     c: "Biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới.",
+    //     d: "Biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 221",
+    //     question: "Chọn đáp án KHÔNG đúng. Nguồn gốc của tôn giáo:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Nguồn gốc địa lý, lịch sử hình thành con người.",
+    //     b: "Nguồn gốc tự nhiên, kinh tế – xã hội.",
+    //     c: "Nguồn gốc nhận thức.",
+    //     d: "Nguồn gốc tâm lý.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 222",
+    //     question: "Chọn đáp án đúng nhất. Theo chủ nghĩa Mác – Lênin bản chất của tôn giáo là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Một hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan.",
+    //     b: "Phản ánh hư ảo của những lực lượng bên ngoài chi phối cuộc sống hàng ngày của con người.",
+    //     c: "Một hiện tượng xã hội – văn hoá do con người sáng tạo ra, phản ánh ước mơ, suy nghĩ của họ.",
+    //     d: "Một thực thể xã hội với các tiêu chí cơ bản: có niềm tin sâu sắc vào đấng siêu nhiên, thần linh.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 223",
+    //     question: "Hiện nay ở Việt Nam, để đảm bảo lợi ích của gia đình và sự phát triển bền vững của xã hội, thông điệp trong kế hoạch hoá gia đình là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Nên có từ 1 đến 2 con.",
+    //     b: "Nên sinh đủ 2 con.",
+    //     c: "Nên sinh 1 con.",
+    //     d: "Nên sinh 1 trai, 1 gái.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 224",
+    //     question: "Trong cơ cấu xã hội – giai cấp, giai cấp hay tầng lớp nào giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giai cấp tư bản.",
+    //     b: "Tầng lớp trí thức mới.",
+    //     c: "Đảng Cộng sản.",
+    //     d: "Giai cấp công nhân.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 225",
+    //     question: "Tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chống Đuyrinh – Ph.Ăngghen.",
+    //     b: "Làm gì? - V.I.Lênin.",
+    //     c: "Bộ Tư bản – C.Mac.",
+    //     d: "Tình cảnh nước Anh – Ph.Ăngghen.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 226",
+    //     question: "Mục tiêu phân bố dân cư hợp lí của chính sách dân số nước ta để:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giảm sự chênh lệch lao động giữa các vùng.",
+    //     b: "Khai thác tiềm năng và phát huy thế mạnh của từng vùng, miền.",
+    //     c: "Hạn chế tập trung đông dân cư vào đô thị lớn.",
+    //     d: "Giảm lao động thừa ở thành thị.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 227",
+    //     question: "Sự chuyển đổi trong cơ cấu kinh tế thị trường dẫn đến biến đổi trong cơ cấu xã hội – giai cấp, hình thành cơ cấu xã hội – giai cấp đa dạng hơn ở Việt Nam được bắt đầu từ thời điểm nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Sau cách mạng tháng Tám năm 1945.",
+    //     b: "Sau cách mạng thống nhất đất nước năm 1975.",
+    //     c: "Từ Đại hội VI của Đảng năm 1986.",
+    //     d: "Từ Đại hội VII của Đảng năm 1991.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 228",
+    //     question: "Công cụ để xoá bỏ những lệ cũ, lạc hậu, đè nặng lên vai người phụ nữ đồng thời thực hiện giải phóng phụ nũ và bảo vệ hạnh phúc gia đình trong thời kỳ quá độ lên CNXH là gì?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Luật pháp nghiêm minh.",
+    //     b: "Nhà nước pháp quyền.",
+    //     c: "Hội liên hiệp phụ nữ.",
+    //     d: "Đạo đức XHCN.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 229",
+    //     question: "Loại hình nào của cơ cấu xã hội có vị trí quan trọng nhất?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Cơ cấu xã hội – giai cấp.",
+    //     b: "Cơ cấu xã hội – dân cư.",
+    //     c: "Cơ cấu xã hội – dân tộc.",
+    //     d: "Cơ cấu xã hội – tôn giáo.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 230",
+    //     question: "Sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Giải quyết mâu thuẫn lợi ích cơ bản giữa giai cấp vô sản với nhà nước phong kiến, thiết lập nhà nước XHCN, thực hiện tiến bộ và công bằng, dân chủ xã hội.",
+    //     b: "Giải quyết mâu thuẫn lợi ích cơ bản giữa giai cấp công nhân với giai cấp tư sản, phấn đấu cho việc xác lập một trật tự xã hội mới công bằng và bình đẳng.",
+    //     c: "Lực lượng đi đầu trong sự nghiệp công nghiệp hoá, hiện đại hoá đất nước vì mục tiêu dân giàu nước, nước mạnh, dân chủ, công bằng, văn minh.",
+    //     d: "Thực hiện cuộc cách mạng của đại đa số mưu lợi ích cho tuyệt đại đa số, nhờ việc hướng tới xây dựng một xã hội mới dựa trên công hữu những tư liệu sản xuất chủ yếu của xã hội.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 231",
+    //     question: "Yếu tố quyết định mối quan hệ hợp tác và gắn bó chặt chẽ với nhau trong cơ cấu xã hội – giai cấp của thời kì quá độ lên CNXH là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chung sức xây dựng xã hội mới, xã hội XHCN.",
+    //     b: "Chung sức xây dựng xã hội mới, loại bỏ những thói hư tật xấu của xã hội cũ để lại.",
+    //     c: "Chung sức cải tạo xã hội cũ, xây dựng xã hội mới trên mọi lĩnh vực.",
+    //     d: "Đoàn kết, nhất trí trong xây dựng xã hội XHCN công bằng, giàu mạnh.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 232",
+    //     question: "Trên lĩnh vực tư tưởng và văn hóa, thời kì quá độ ở nước ta có đặc điểm gì?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Nền văn háo tiến bộ, đậm đà bản sắc dân tộc.",
+    //     b: "Quá trình hội nhập với văn hóa thế giới diên ra mạnh mẽ.",
+    //     c: "Còn tồn tại nhiều loại, nhiều khuynh hướng tư tưởng, văn hóa khác nhau.",
+    //     d: "Các giá trị văn hóa truyền thống được giữ gìn, phát huy.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 233",
+    //     question: "Bản chất dân chủ XHCN ở Việt Nam được thực hiện thông qua hình thức:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Dân chủ gián tiếp, dân chủ đại diện.",
+    //     b: "Dân chủ gián tiếp, dân chủ trực tiếp.",
+    //     c: "Dân chủ trực tiếp.",
+    //     d: "Dân chủ uỷ quyền.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 234",
+    //     question: "Giai cấp công nhân muốn thực hiện cuộc cách mạng triệt để phải thông qua đội tiên phong là:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đảng Cộng sản Bônsevich.",
+    //     b: "Đảng Cộng sản Việt Nam.",
+    //     c: "Quốc tế Cộng sản.",
+    //     d: "Đảng Cộng sản.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 235",
+    //     question: "Theo Mác và Ăngghen giai cấp công nhân đại biểu cho, chọn phương án đúng nhất:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Phương thức sản xuất hiện đại.",
+    //     b: "Ý chí đấu tranh của giai cấp vô sản.",
+    //     c: "Lực lượng, phương thức sản xuất tiên tiến, quyết định sự tồn tại và phát triển của xã hội hiện đại.",
+    //     d: "Tinh thần cách mạng triệt để.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 236",
+    //     question: "“Chế độ dân chủ vô sản so với bất kỳ chế độ dân chủ tư sản nào cũng dân chủ hơn gấp triệu lần..” là phát biểu của ai?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "C. Mác.",
+    //     b: "V.I.Lênin.",
+    //     c: "Ph.Ăngghen.",
+    //     d: "Hồ Chí Minh.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 237",
+    //     question: "Đảng ta đề ra bao nhiêu phương hướng cơ bản để xây dựng cơ cấu xã hội – giai cấp và tăng cường khối liên minh giai cấp, tầng lớp trong xã hội Việt Nam?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Bốn phương hướng.",
+    //     b: "Năm phương hướng.",
+    //     c: "Sáu phương hướng.",
+    //     d: "Tám phương hướng.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 238",
+    //     question: "Những yếu tố tư tưởng XHCN được xuất hiện từ khi nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Chế độ tư bản chủ nghĩa ra đời.",
+    //     b: "Sự xuất hiện chế độ tư hữu, xuất hiện giai cấp thống trị và bóc lột.",
+    //     c: "Sự xuất hiện giai cấp công nhân.",
+    //     d: "Thời cộng sản nguyên thủy.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 239",
+    //     question: "Để thực hiện được quyền bình đẳng dân tộc, trước hết:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Phải thủ tiêu giai cấp tư sản.",
+    //     b: "Phải thủ tiêu tình trạng áp bức giai cấp.",
+    //     c: "Phải thủ tiêu nhà nước tư sản.",
+    //     d: "Phải thủ tiêu bất bình đẳng giữa các dân tộc.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 240",
+    //     question: "Chủ nghĩa xã hội mà nước ta đang xây dựng là một xã hội phát triển:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Ưu việt hơn các xã hội trước.",
+    //     b: "Lợi thế hơn các xã hội trước.",
+    //     c: "Nhanh chóng.",
+    //     d: "Tự do.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 241",
+    //     question: "Sứ mệnh lịch sử của giai cấp công nhân xuất phát từ tiền đề kinh tế – xã hội với biểu hiện nổi bật:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Xã hội hoá sản xuất làm xuất hiện những tiền đề vật chất, thúc đẩy sự phát triển của xã hội, thúc đẩy sự vận động của mâu thuẫn cơ bản trong lòng phương thức sản xuất TBCN.",
+    //     b: "Xã hội hoá sản xuất làm thúc đẩy mâu thuẫn giữa LLSX với tính chất chiếm hữu tư nhân TBCN về tư liệu sản xuất và sản sinh ra giai cấp công nhân, rèn luyện nó thành chủ thể để giải quyết mâu thuẫn.",
+    //     c: "Giải quyết mâu thuẫn cơ bản về kinh tế và chính trị trong lòng phương thức sản xuất TBCN, đó là tính quy định khách quan, yêu cầu khách quan của sự vận động, phát triển của lịch sử từ TBCN lên CNXH.",
+    //     d: "Thực hiện cuộc cách mạng của đại đa số mưu lợi ích cho tuyệt đại đa số, nhờ việc hướng tới xây dựng một xã hội mới dựa trên công hữu những tư liệu sản xuất chủ yếu của xã hội.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 242",
+    //     question: "Dựa trên cơ sở tổng kết kinh nghiệm cuộc cách mạng trong giai đoạn nào của giai cấp công nhân, Ph.Ăngghen và C.Mác tiếp tục phát triển nội dung của chủ nghĩa xã hội khoa học?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Từ năm 1948 đến 1952.",
+    //     b: "Từ năm 1748 đến 1752.",
+    //     c: "Từ năm 1850 đến 1852.",
+    //     d: "Từ năm 1848 đến 1852.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 243",
+    //     question: "“Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong thực thi các quyền lập pháp, hành pháp, tư pháp” là quan điểm của:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đại hội Đảng toàn quốc lần thứ IX.",
+    //     b: "Đại hội Đảng toàn quốc lần thứ X.",
+    //     c: "Đại hội Đảng toàn quốc lần thứ XI.",
+    //     d: "Đại hội Đảng toàn quốc lần thứ XII.",
+    //     },
+    //     correctAnswer: "d",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
+    //     },
+    // {
+    //     title: "Câu 244",
+    //     question: "Thuật ngữ “dân chủ” ra đời vào khoảng thời gian nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Thế kỷ thứ VII – VI trước công nguyên.",
+    //     b: "Thế kỷ thứ VII – VI sau công nguyên.",
+    //     c: "Thế kỷ thứ V – IV trước công nguyên.",
+    //     d: "Thế kỷ thứ V – IV sau công nguyên.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 245",
+    //     question: "Theo quan điểm của các nhà sáng lập chủ nghĩa xã hội khoa học, cách mạng vô sản trên thực tế được thực hiện theo con đường nào?",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đấu tranh chính trị.",
+    //     b: "Đấu tranh chính trị và đấu tranh vũ trang.",
+    //     c: "Bạo lực vũ trang.",
+    //     d: "Nhân đạo, hoà bình.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 246",
+    //     question: "Giai cấp công nhân Việt Nam bao gồm lực lượng nào? Chọn phương án đúng nhất.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Lao động chân tay và trí óc, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
+    //     b: "Lao động giản đơn và trừu tượng, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
+    //     c: "Lao động phức tạp và giản đơn, làm công hưởng lương trong các loại hình sản xuất, kinh doanh và dịch vụ công nghiệp.",
+    //     d: "Lao động trí thức và giản đơn, làm công hưởng lương trong các loại hình sản xuất, kinh doanh, dịch vụ có tính chất công nghiệp.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
+    // {
+    //     title: "Câu 247",
+    //     question: "Chọn đáp án KHÔNG đúng. Dân tộc Việt Nam hiện nay có đặc điểm nổi bật:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Các dân tộc ở Việt Nam có trình độ phát triển không đều.",
+    //     b: "Các dân tộc Việt Nam có truyền thống đoàn kết gắn bó lâu đời trong cộng đồng dân tộc – quốc gia thống nhất.",
+    //     c: "Các dân tộc cư trú theo từng vùng lãnh thổ riêng biệt, dân tộc thiểu số sống chủ yếu ở vùng đồi núi.",
+    //     d: "Mỗi dân tộc có bản sắc văn hoá riêng, góp phần tạo nên sự phong phú đa dạng của nền văn hoá Việt Nam thống nhất.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 248",
+    //     question: "Điền vào chổ trống. “Bên cạnh những dấu vết của xã hội cũ, xuất hiện những yếu tố của xã hội mới, do vậy tất yếu sẽ diễn ra sự tồn tại […] giữa những giai cấp, tầng lớp cũ và mới”.",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Song song.",
+    //     b: "Đan xen.",
+    //     c: "Kết hợp.",
+    //     d: "Thay thế.",
+    //     },
+    //     correctAnswer: "b",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     },
+    // {
+    //     title: "Câu 249",
+    //     question: "Điểm tương đồng giữa giai cấp công nhân hiện nay và giai cấp công nhân truyền thống ở thế kỷ XIX, chọn đáp án đúng nhất:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Đều là LLSX hiện đại, chủ thể của sử dụng máy móc trong sản xuất.",
+    //     b: "Đều là LLSX hàng đầu của xã hội đại diện cho máy móc, phương thức sản xuất tiên tiến.",
+    //     c: "Đều là LLSX hàng đầu, bị giai cấp tư sản bóc lột, luôn là lực lượng đi đầu trong đấu tranh vì hoà bình, hợp tác và phát triển, dân chủ, tiến bộ XHCN.",
+    //     d: "Đều là đại diện đi đầu cho các phong trào đấu tranh vì hoà bình, hợp tác và phát triển, vì dân sinh, dân chủ, tiến bộ xã hội và chủ nghĩa xã hội.",
+    //     },
+    //     correctAnswer: "c",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là c"
+    //     },
+    // {
+    //     title: "Câu 250",
+    //     question: "Xu hướng biến đổi cơ cấu kinh tế ở mỗi quốc gia khi bắt đầu thời kỳ quá độ diễn ra khác nhau là bởi vì:",
+    //     background: "<img src='./img/bg_slide1.jpg'>",
+    //     answers: {
+    //     a: "Do qui định bởi sự khác biệt về trình độ phát triển kinh tế, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
+    //     b: "Do qui định bởi sự khác biệt về trình độ phát triển xã hội, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
+    //     c: "Do qui định bởi sự khác biệt về trình độ phát triển lực lượng sản xuất, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
+    //     d: "Do qui định bởi sự khác biệt về trình độ phát triển phương thức sản xuất, về hoàn cảnh, điều kiện lịch sử cụ thể của mỗi nước.",
+    //     },
+    //     correctAnswer: "a",
+    //     correctAnswerText: "Đúng",
+    //     falseAnswerText: "Sai, câu trả lời đúng là a"
+    //     },
     
 
 ]
