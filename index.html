@@ -71,13 +71,14 @@
   function buildQuiz() {
     // we'll need a place to store the HTML output
     const output = [];
+
     //random câu hỏi
     for (var i = myQuestions.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
         var temp = myQuestions[i];
         myQuestions[i] = myQuestions[j];
         myQuestions[j] = temp;
-    }
+      }
     //hết random
     // for each question...
     // we’re using an arrow function to perform our operations on each question. Because this is in a forEach loop, we get the current value, the index, and the array itself as parameters. We only need the current value and the index, which for our purposes, we’ll name currentQuestion and questionNumber respectively.
@@ -106,7 +107,7 @@
 
             <div id="title" class="wow slideInDown"> 
               <h2>${currentQuestion.title}</h2>
-            </div>
+              </div>
 
             <div class="question wow fadeIn" data-wow-delay="0s" data-wow-duration="0s"> 
               <p>${currentQuestion.question}</p>
@@ -126,20 +127,21 @@
 
   };
 
+
   // -----------------------
   // Show Answers
   // -----------------------
 
 
 function showAnswer() {
-
+  let checked = Number(`${myQuestions.length}`);
     const answerTextContainers = quizContainer.querySelectorAll(".answers");
 
     const answersArray = [];
 
     // for each question...
     myQuestions.forEach((currentQuestion, questionNumber) => {
-
+      checked = checked - 1;
       
       const answerTextContainer = answerTextContainers[questionNumber];
       
@@ -148,11 +150,12 @@ function showAnswer() {
       const userAnswer2 = (answerTextContainer.querySelector(selector2) || {}).value;
 
       if (userAnswer2 == currentQuestion.correctAnswer ) {
-        
+
         answersArray.push(
           `<div class="slide">
             <div class="answerText wow slideInRight" data-wow-delay="0s" data-wow-duration="0s">
               <p>${currentQuestion.correctAnswerText}</p>
+              <p>Số câu còn lại: ${checked}</p>
             </div>
           </div>`
         );
@@ -163,6 +166,7 @@ function showAnswer() {
           `<div class="slide">
             <div class="answerText wow slideInRight" data-wow-delay="0s" data-wow-duration="0s">
               <p>${currentQuestion.falseAnswerText}</p>
+              <p>Số câu còn lại: ${checked}</p>
             </div>
           </div>`
         );
