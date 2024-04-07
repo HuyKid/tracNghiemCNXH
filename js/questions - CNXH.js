@@ -1325,9 +1325,9 @@ const myQuestions = [
     //     c: "Giai cấp công nhân là đội tiên phong xây dựng CNXH, có sứ mệnh thủ tiêu CNTB.",
     //     d: "Người cộng sản trên thế giới đoàn kết lại, liên minh lực lượng dân chủ đánh đổ chế độ phong kiến và TBCN. Tiến hành cuộc cách mạng không ngừng, có chiến lược, sách lược khôn khéo và kiên quyết.",
     //     },
-    //     correctAnswer: "b",
+    //     correctAnswer: "d",
     //     correctAnswerText: "Đúng",
-    //     falseAnswerText: "Sai, câu trả lời đúng là b"
+    //     falseAnswerText: "Sai, câu trả lời đúng là d"
     //     },
     // {
     //     title: "Câu 96",
