@@ -155,7 +155,7 @@ function showAnswer() {
           `<div class="slide">
             <div class="answerText wow slideInRight" data-wow-delay="0s" data-wow-duration="0s">
               <p>${currentQuestion.correctAnswerText}</p>
-              <p>Số câu còn lại: ${checked}</p>
+              <p style="color: green;">Số câu còn lại: ${checked}</p>
             </div>
           </div>`
         );
@@ -166,7 +166,7 @@ function showAnswer() {
           `<div class="slide">
             <div class="answerText wow slideInRight" data-wow-delay="0s" data-wow-duration="0s">
               <p>${currentQuestion.falseAnswerText}</p>
-              <p>Số câu còn lại: ${checked}</p>
+              <p style="color: brown;">Số câu còn lại: ${checked}</p>
             </div>
           </div>`
         );
